@@ -1,0 +1,142 @@
+DISEASE/TRAIT	frequency
+Lung cancer	182
+Colorectal cancer	177
+Breast cancer	1116
+Prostate cancer	284
+Urinary bladder cancer	7
+Thyroid cancer	22
+Testicular cancer	3
+Pancreatic cancer	69
+Ovarian cancer	28
+Bladder cancer	32
+Esophageal cancer	13
+Non-small cell lung cancer	17
+Gastric cancer	14
+Response to gemcitabine in pancreatic cancer	5
+Esophageal cancer and gastric cancer	4
+Erectile dysfunction and prostate cancer treatment	23
+Breast cancer in BRCA2 mutation carriers	1
+Non-small cell lung cancer (survival)	6
+Small-cell lung cancer (survival)	1
+"Thyroid cancer (Papillary, radiation-related)"	1
+Response to tamoxifen in breast cancer	1
+Breast cancer (survival)	9
+Gallbladder cancer	7
+Response to irinotecan in non-small-cell lung cancer	2
+Lung cancer (asbestos exposure interaction)	2
+Oral cavity and pharyngeal cancer	10
+Endometrial cancer	23
+Response to platinum-based chemotherapy in non-small-cell lung cancer	6
+Testicular germ cell cancer	6
+Response to irinotecan and platinum-based chemotherapy in non-small-cell lung cancer	7
+Estradiol plasma levels (breast cancer)	18
+Non-melanoma skin cancer	4
+Cervical cancer	34
+Esophageal cancer  (alcohol interaction)	4
+Lung Cancer (DNA repair capacity)	2
+"Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)"	7
+Adverse response to chemotherapy in breast cancer (alopecia)	3
+Lobular breast cancer (menopausal hormone therapy interaction)	2
+Breast cancer (menopausal hormone therapy interaction)	2
+Ovarian cancer in BRCA1 mutation carriers	11
+Breast Cancer in BRCA1 mutation carriers	6
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+epirubicin+/-5FU)	3
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	8
+Adverse response to chemotherapy in breast cancer (alopecia) (paclitaxel)	5
+Adverse response to chemotherapy in breast cancer (alopecia) (docetaxel)	4
+Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	7
+"Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)"	5
+Breast cancer (early onset)	18
+Lung cancer (smoking interaction)	2
+Non-small cell lung cancer (recurrence rate)	2
+Colorectal cancer (diet interaction)	13
+Bladder cancer (smoking interaction)	5
+Prostate cancer (early onset)	9
+Response to radiotherapy in cancer (late toxicity)	10
+Esophageal squamous cell cancer (length of survival)	1
+Esophageal cancer (squamous cell)	7
+Breast cancer (male)	3
+Breast cancer (prognosis)	5
+Urinary symptoms in response to radiotherapy in prostate cancer	1
+Response to radiotherapy in prostate cancer (toxicity)	1
+Epithelial ovarian cancer	50
+Response to chemotherapy in breast cancer (hypertension) (bevacizumab)	3
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	13
+Colorectal cancer (calcium intake interaction)	3
+Colorectal cancer (aspirin and/or NSAID use interaction)	2
+Platinum-induced myelosuppression in non-small cell lung cancer	1
+Disease-free survival in breast cancer	2
+Survival in rectal cancer	18
+Survival in colon cancer	12
+Survival in microsatellite instability low/stable colorectal cancer	12
+Survival in endocrine treated breast cancer (estrogen-receptor positive)	1
+Prostate cancer aggressiveness	3
+Obesity in adult survivors of childhood cancer exposed to cranial radiation	4
+Obesity in adult survivors of childhood cancer not exposed to cranial radiation	1
+Cardia gastric cancer	1
+Non-cardia gastric cancer	8
+Progression free survival in metastatic colorectal cancer (CAPOX-B vs CAPOX-B plus cetuximab)	3
+Anthracycline-induced cardiotoxicity in childhood cancer	2
+Survival in colorectal cancer	1
+Survival in colorectal cancer (non-distant metastatic)	1
+Colorectal cancer (oestrogen-progestogen hormone therapy interaction)	1
+Progression free survival in metastatic colorectal cancer (chemotherapy interaction)	1
+Response to carboplatin in ovarian cancer (MTT IC50)	2
+Response to carboplatin and paclitaxel in ovarian cancer (MTT IC50)	2
+Response to carboplatin and paclitaxel in ovarian cancer (Caspase 3/7 EC50)	3
+Response to paclitaxel in ovarian cancer (MTT IC50)	1
+Response to paclitaxel in ovarian cancer (Caspase 3/7 EC50)	2
+Response to Pazopanib in cancer (hepatotoxicity)	1
+Colorectal or endometrial cancer	29
+Survival in colorectal cancer (distant metastatic)	4
+Prostate cancer (survival)	4
+Colorectal cancer (SNP x SNP interaction)	7
+Prostate cancer (SNP x SNP interaction)	51
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	11
+"Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)"	8
+"Response to radiotherapy in prostate cancer (toxicity, rectal bleeding)"	6
+Oropharynx cancer	17
+Cancer	17
+Cancer (pleiotropy)	26
+Breast cancer (estrogen-receptor negative)	27
+Response to radiotherapy in prostate cancer (overall toxicity)	16
+Breast cancer (estrogen-receptor positive)	1
+Colorectal cancer (alcohol consumption interaction)	2
+Breast cancer-free interval (treatment with aromatase inhibitor)	1
+Estrogen receptor status in breast cancer	1
+Estrogen receptor status in HER2 negative breast cancer	1
+Oral cavity cancer	9
+Survival in head and neck cancer	1
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	12
+Colon cancer	2
+Multiple keratinocyte cancers	17
+HER2 status in breast cancer	1
+Body mass index (change over time) in cancer	1
+Body mass index (change over time) in lung cancer	3
+Body mass index (change over time) in gastrointestinal cancer	3
+Body mass index (change over time) in gastrointestinal cancer or chronic obstructive pulmonary disease	4
+Body mass index (change over time) in lung cancer or chronic obstructive pulmonary disease	5
+Body mass index (change over time) in cancer or chronic obstructive pulmonary disease	3
+Response to platinum-based neoadjuvant chemotherapy in cervical cancer	3
+Plasma estrone conjugates levels in resected early stage estrogen-receptor positive breast cancer	2
+Estrone conjugates/estrone ratio in resected early stage estrogen-receptor positive breast cancer	1
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	14
+Plasma estrone levels in resected estrogen-receptor positive breast cancer	2
+Plasma androstenedione levels in resected early stage-receptor positive breast cancer	5
+Survival in pancreatic cancer	61
+Ovarian clear cell cancer	2
+Endometrioid ovarian cancer	1
+Low-grade serous ovarian cancer	1
+Ovarian cancer in BRCA2 mutation carriers	2
+Serous invasive ovarian cancer	21
+Serous borderline ovarian cancer	10
+High-grade serous ovarian cancer	21
+Invasive epithelial ovarian cancer	19
+Low-grade serous and serous borderline ovarian cancer	12
+Lung cancer in ever smokers	111
+Differentiated thyroid cancer	10
+Papillary thyroid cancer	9
+Lung cancer in never smokers	23
+Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer	6
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	10
+Progression free survival in serous epithelial ovarian cancer treated with carboplatin and paclitaxel	4
