@@ -1,0 +1,2602 @@
+DISEASE/TRAIT	SNPS	MEAN
+Lung cancer	rs2808630	1.22
+Lung cancer	rs7626795	1.16
+Breast cancer	rs2180341	1.41
+Prostate cancer	rs7931342	1.19
+Prostate cancer	rs5945572	1.23
+Prostate cancer	rs721048	1.15
+Prostate cancer	rs4962416	1.17
+Breast cancer	rs2075555	7.344789086221368
+Breast cancer	rs6556756	6.281933766172631
+Breast cancer	rs1154865	6.281933766172631
+Breast cancer	rs1978503	6.281933766172631
+Breast cancer	rs1926657	5.374922158904067
+Prostate cancer	rs9311171	5.374922158904067
+Prostate cancer	rs1529276	5.374922158904067
+Prostate cancer	rs10498792	5.374922158904067
+Prostate cancer	rs4466137	5.374922158904067
+Prostate cancer	rs345013	5.374922158904067
+Breast cancer	rs981782	1.04
+Breast cancer	rs10263639	5.374922158904067
+Breast cancer	rs10490113	5.374922158904067
+Breast cancer	rs458685	5.374922158904067
+Breast cancer	rs1876206	5.374922158904067
+Prostate cancer	rs5945619	1.19
+Breast cancer	rs10871290	6.281933766172631
+Lung cancer	rs401681	1.15
+Lung cancer	rs8042374	11.317188178518519
+Colorectal cancer	rs9929218	1.1
+Lung cancer	rs402710	1.18
+Lung cancer	rs1051730	1.35
+Prostate cancer	rs9623117	1.18
+Thyroid cancer	rs944289	1.37
+Breast cancer	rs16886165	1.23
+Testicular cancer	rs4474514	3.07
+Esophageal cancer	rs671	1.67
+Esophageal cancer	rs1229984	1.79
+Lung cancer	rs4975616	1.15
+Lung cancer	rs748404	1.15
+Lung cancer	rs1926203	1.12
+Lung cancer	rs1530057	1.26
+Lung cancer	rs4254535	1.12
+Prostate cancer	rs10934853	1.12
+Prostate cancer	rs8102476	1.12
+Prostate cancer	rs11228565	1.23
+Prostate cancer	rs16902094	1.21
+Colorectal cancer	rs7315438	1.11
+Prostate cancer	rs7584330	1.06
+Prostate cancer	rs6763931	1.04
+Prostate cancer	rs10936632	1.11
+Prostate cancer	rs2242652	1.15
+Prostate cancer	rs2121875	1.05
+Prostate cancer	rs130067	1.05
+Prostate cancer	rs5919432	1.06
+Bladder cancer	rs7238033	1.2
+Non-small cell lung cancer	rs11080466	1.47
+Breast cancer	rs2048672	1.11
+Breast cancer	rs10822013	1.12
+Gastric cancer	rs9841504	1.32
+Gastric cancer	rs13361707	1.41
+Response to gemcitabine in pancreatic cancer	rs763780	3.3
+Response to gemcitabine in pancreatic cancer	rs2900174	3.3
+Response to gemcitabine in pancreatic cancer	rs11062040	1.4
+Prostate cancer	rs1983891	1.15
+Pancreatic cancer	rs6736997	1.57
+Pancreatic cancer	rs6464375	3.73
+Pancreatic cancer	rs10088262	1.4
+Pancreatic cancer	rs9502893	1.29
+Pancreatic cancer	rs12615966	3.15
+Pancreatic cancer	rs1585440	1.3
+Pancreatic cancer	rs1886449	1.51
+Pancreatic cancer	rs6879627	1.25
+Pancreatic cancer	rs225190	1.26
+Pancreatic cancer	rs2039553	1.73
+Pancreatic cancer	rs3016539	1.5
+Pancreatic cancer	rs4924935	1.37
+Pancreatic cancer	rs6711606	2.81
+Pancreatic cancer	rs2257205	1.38
+Pancreatic cancer	rs7832232	1.45
+Pancreatic cancer	rs1427593	1.49
+Pancreatic cancer	rs708224	1.32
+Esophageal cancer and gastric cancer	rs3781264	1.36
+Esophageal cancer and gastric cancer	rs4072037	1.33
+Esophageal cancer and gastric cancer	rs3765524	1.35
+Esophageal cancer and gastric cancer	rs738722	1.3
+Prostate cancer	rs7837688	25.407063455000003
+Prostate cancer	rs9284813	8.311444494027565
+Ovarian cancer	rs2363956	1.1
+Ovarian cancer	rs2665390	1.19
+Breast cancer	rs7716600	1.24
+Ovarian cancer	rs7521902	1.12
+Ovarian cancer	rs12794435	1.16
+Ovarian cancer	rs2084881	1.12
+Non-small cell lung cancer	rs9303196	1.43
+Non-small cell lung cancer	rs16951095	1.3
+Non-small cell lung cancer	rs2131877	1.3
+Erectile dysfunction and prostate cancer treatment	rs2268363	7.03
+Erectile dysfunction and prostate cancer treatment	rs10194115	9.0
+Erectile dysfunction and prostate cancer treatment	rs2806864	6.42
+Erectile dysfunction and prostate cancer treatment	rs7064929	13.65
+Erectile dysfunction and prostate cancer treatment	rs10861905	33.95
+Erectile dysfunction and prostate cancer treatment	rs1527243	6.67
+Erectile dysfunction and prostate cancer treatment	rs12336160	7.26
+Erectile dysfunction and prostate cancer treatment	rs2716734	5.97
+Erectile dysfunction and prostate cancer treatment	rs10210358	5.34
+Erectile dysfunction and prostate cancer treatment	rs16861326	17.85
+Erectile dysfunction and prostate cancer treatment	rs5925696	12.52
+Erectile dysfunction and prostate cancer treatment	rs6741148	5.2
+Erectile dysfunction and prostate cancer treatment	rs3802458	10.53
+Erectile dysfunction and prostate cancer treatment	rs6862844	6.72
+Erectile dysfunction and prostate cancer treatment	rs2901964	5.26
+Erectile dysfunction and prostate cancer treatment	rs11122834	4.93
+Erectile dysfunction and prostate cancer treatment	rs9948	4.9
+Erectile dysfunction and prostate cancer treatment	rs5965182	11.73
+Erectile dysfunction and prostate cancer treatment	rs5944185	10.5
+Erectile dysfunction and prostate cancer treatment	rs219553	5.56
+Erectile dysfunction and prostate cancer treatment	rs6049375	4.84
+Erectile dysfunction and prostate cancer treatment	rs5971305	33.69
+Erectile dysfunction and prostate cancer treatment	rs872690	11.78
+Colorectal cancer	rs6691170	1.06
+Colorectal cancer	rs10936599	1.04
+Colorectal cancer	rs11169552	1.09
+Colorectal cancer	rs4925386	1.08
+Bladder cancer	NR	1.47
+Breast cancer in BRCA2 mutation carriers	rs2981575	1.28
+Non-small cell lung cancer (survival)	rs1656402	2.38
+Non-small cell lung cancer (survival)	rs1209950	4.96
+Non-small cell lung cancer (survival)	rs9981861	1.33
+Small-cell lung cancer (survival)	rs716274	1.83
+Colorectal cancer	rs7758229	1.28
+"Thyroid cancer (Papillary, radiation-related)"	rs965513	1.65
+Breast cancer	rs4415084	1.17
+Breast cancer	rs3112612	1.15
+Response to tamoxifen in breast cancer	rs10509373	4.51
+Prostate cancer	rs11199874	9.337880221594288
+Prostate cancer	rs4775302	7.344789086221368
+Pancreatic cancer	rs372883	1.27
+Pancreatic cancer	rs2255280	1.23
+Pancreatic cancer	rs12413624	1.23
+Pancreatic cancer	rs1547374	1.27
+Pancreatic cancer	rs9573163	1.26
+Pancreatic cancer	rs5768709	1.25
+Pancreatic cancer	rs2689154	1.2
+Pancreatic cancer	rs9363918	1.27
+Pancreatic cancer	rs10974531	1.24
+Pancreatic cancer	rs4269383	1.2
+Pancreatic cancer	rs4927850	1.24
+Thyroid cancer	rs966423	1.34
+Thyroid cancer	rs2439302	1.36
+Breast cancer (survival)	rs9934948	1.29
+Response to gemcitabine in pancreatic cancer	rs11141915	4.1
+Gallbladder cancer	rs7504990	6.95
+Gallbladder cancer	rs975334	8.3
+Gallbladder cancer	rs13294589	12.78
+Gallbladder cancer	rs6869388	72.7
+Gallbladder cancer	rs10953615	7.51
+Breast cancer	rs9383951	1.14
+Breast cancer	rs7107217	1.08
+Response to gemcitabine in pancreatic cancer	rs1901440	34.0
+Breast cancer	rs13393577	1.53
+Colorectal cancer	rs1321311	1.1
+Colorectal cancer	rs5934683	1.07
+Response to irinotecan in non-small-cell lung cancer	rs1517114	4.1
+Response to irinotecan in non-small-cell lung cancer	rs2745761	4.8
+Lung cancer (asbestos exposure interaction)	rs13383928	5.374922158904067
+Lung cancer (asbestos exposure interaction)	rs9635542	5.374922158904067
+Breast cancer	rs3734805	1.19
+Breast cancer	rs10510102	1.12
+Breast cancer	rs1092913	1.45
+Breast cancer	rs10411161	1.42
+Oral cavity and pharyngeal cancer	rs971074	1.33
+Oral cavity and pharyngeal cancer	rs1789924	1.12
+Oral cavity and pharyngeal cancer	rs1494961	1.12
+Oral cavity and pharyngeal cancer	rs4767364	1.13
+Endometrial cancer	rs4430796	1.19
+Response to platinum-based chemotherapy in non-small-cell lung cancer	rs1878022	1.33
+Endometrial cancer	rs673604	1.21
+Testicular cancer	rs7040024	1.7
+Prostate cancer	rs7210100	1.51
+Testicular cancer	rs755383	1.5
+Esophageal cancer	rs11066280	1.3
+Esophageal cancer	rs2074356	1.56
+Esophageal cancer	rs10058728	2.04
+Esophageal cancer	rs6772209	1.49
+Esophageal cancer	rs9868873	1.19
+Esophageal cancer	rs8030672	1.56
+Esophageal cancer	rs2274223	1.34
+Esophageal cancer	rs10052657	1.49
+Esophageal cancer	rs11066015	1.38
+Esophageal cancer	rs2014300	1.43
+Esophageal cancer	rs10484761	1.33
+Lung cancer	rs753955	1.18
+Lung cancer	rs36600	1.29
+Prostate cancer	rs2292884	1.14
+Bladder cancer	rs17674580	1.17
+Prostate cancer	rs7629490	1.06
+Prostate cancer	rs742134	1.16
+Prostate cancer	rs1465618	1.08
+Prostate cancer	rs12621278	1.33
+Prostate cancer	rs17021918	1.11
+Prostate cancer	rs7127900	1.22
+Prostate cancer	rs12500426	1.08
+Prostate cancer	rs6545977	6.281933766172631
+Prostate cancer	rs17181170	7.344789086221368
+Prostate cancer	rs3123078	19.39316843105263
+Prostate cancer	rs1327301	9.337880221594288
+Lung cancer	rs2352028	1.46
+Urinary bladder cancer	rs798766	1.24
+Breast cancer	rs909116	1.17
+Breast cancer	rs2380205	1.06
+Testicular germ cell cancer	rs2736100	1.33
+Testicular germ cell cancer	rs4635969	1.54
+Testicular germ cell cancer	rs755383	1.37
+Testicular germ cell cancer	rs2900333	1.27
+Testicular germ cell cancer	rs4624820	1.47
+Testicular germ cell cancer	rs3782181	2.22
+Lung cancer	rs10849605	1.08
+Breast cancer	rs4322600	1.18
+Response to platinum-based chemotherapy in non-small-cell lung cancer	rs41997	1.52
+Response to platinum-based chemotherapy in non-small-cell lung cancer	rs12000445	1.49
+Response to platinum-based chemotherapy in non-small-cell lung cancer	rs3850370	1.31
+Breast cancer	rs1078806	1.43
+Breast cancer	rs2305016; rs7535752; rs9628987; rs12711517; rs2289731	1.23
+Breast cancer	rs17435444; rs13116936	1.23
+Breast cancer	rs4414128; rs2386661; rs17141741	1.27
+Breast cancer	rs765899; rs757369; rs10132579; rs2842347; rs737387; rs2842346	1.67
+Response to irinotecan and platinum-based chemotherapy in non-small-cell lung cancer	rs344924	4.9
+Response to irinotecan and platinum-based chemotherapy in non-small-cell lung cancer	rs13398721	7.1
+Response to irinotecan and platinum-based chemotherapy in non-small-cell lung cancer	rs17635492	7.6
+Response to irinotecan and platinum-based chemotherapy in non-small-cell lung cancer	rs2018683	7.8
+Response to irinotecan and platinum-based chemotherapy in non-small-cell lung cancer	rs16950650	30.2
+Response to irinotecan and platinum-based chemotherapy in non-small-cell lung cancer	rs11622887	3.5
+Response to irinotecan and platinum-based chemotherapy in non-small-cell lung cancer	rs7186128	2.5
+Estradiol plasma levels (breast cancer)	rs1864729	1.589
+Estradiol plasma levels (breast cancer)	rs11688246	1.832
+Estradiol plasma levels (breast cancer)	rs4902141	2.161
+Estradiol plasma levels (breast cancer)	rs12565140	1.425
+Estradiol plasma levels (breast cancer)	rs12118390	2.253
+Estradiol plasma levels (breast cancer)	rs4699587	1.763
+Estradiol plasma levels (breast cancer)	rs7072122	1.73
+Estradiol plasma levels (breast cancer)	rs4761470	1.375
+Estradiol plasma levels (breast cancer)	rs10515260	1.913
+Estradiol plasma levels (breast cancer)	rs16832889	3.085
+Estradiol plasma levels (breast cancer)	rs17042688	1.911
+Estradiol plasma levels (breast cancer)	rs10501858	1.539
+Estradiol plasma levels (breast cancer)	rs12620464	1.397
+Estradiol plasma levels (breast cancer)	rs6077414	1.466
+Estradiol plasma levels (breast cancer)	rs478665	1.772
+Estradiol plasma levels (breast cancer)	rs727333	1.542
+Estradiol plasma levels (breast cancer)	rs724767	1.436
+Estradiol plasma levels (breast cancer)	rs11548323	1.396
+Non-melanoma skin cancer	rs12203592	0.21
+Non-melanoma skin cancer	rs12202284	0.15
+Non-melanoma skin cancer	rs8015138	0.11
+Ovarian cancer	rs757210	1.12
+Cervical cancer	rs2516448	1.42
+Cervical cancer	rs3117027	1.25
+Cervical cancer	HLA-B*0702	1.42
+Cervical cancer	DRB1*1301-DQA1*0103-DQB1*0603	2.13
+Cervical cancer	DRB1*1501-DQB1*0602	1.39
+Breast cancer	rs6678914	1.1
+Prostate cancer	rs1218582	1.06
+Prostate cancer	rs4245739	1.1
+Prostate cancer	rs11902236	1.07
+Prostate cancer	rs3771570	1.12
+Prostate cancer	rs7611694	1.1
+Prostate cancer	rs1894292	1.1
+Prostate cancer	rs6869841	1.07
+Prostate cancer	rs3096702	1.07
+Prostate cancer	rs2273669	1.07
+Prostate cancer	rs1933488	1.12
+Prostate cancer	rs11135910	1.11
+Prostate cancer	rs3850699	1.1
+Prostate cancer	rs11568818	1.1
+Prostate cancer	rs1270884	1.07
+Prostate cancer	rs8008270	1.12
+Prostate cancer	rs7141529	1.09
+Prostate cancer	rs684232	1.1
+Prostate cancer	rs11650494	1.15
+Prostate cancer	rs7241993	1.09
+Prostate cancer	rs2427345	1.06
+Prostate cancer	rs6062509	1.12
+Prostate cancer	rs2405942	1.14
+Prostate cancer	rs817826	1.41
+Prostate cancer	rs103294	1.28
+Breast cancer	rs8100241	1.14
+Breast cancer	rs9383938	1.28
+Esophageal cancer  (alcohol interaction)	rs1042026	1.27
+Esophageal cancer  (alcohol interaction)	rs3805322	1.23
+Esophageal cancer  (alcohol interaction)	rs9288520	1.33
+Esophageal cancer  (alcohol interaction)	rs17450420	1.7
+Lung Cancer (DNA repair capacity)	rs13181	6.281933766172631
+Lung Cancer (DNA repair capacity)	rs9390123	5.374922158904067
+Non-small cell lung cancer	rs1571228	6.281933766172631
+Non-small cell lung cancer	rs2371030	5.374922158904067
+Non-small cell lung cancer	rs6510725	5.374922158904067
+Non-small cell lung cancer	rs10029269	5.374922158904067
+Non-small cell lung cancer	rs847845	5.374922158904067
+Non-small cell lung cancer	rs732765	5.374922158904067
+Non-small cell lung cancer	rs13405020	5.374922158904067
+Non-small cell lung cancer	rs2926702	5.374922158904067
+Non-small cell lung cancer	rs8048207	5.374922158904067
+Non-small cell lung cancer	rs539901	5.374922158904067
+Non-small cell lung cancer	rs9557635	5.374922158904067
+Non-small cell lung cancer	rs6479272	5.374922158904067
+Non-small cell lung cancer	rs6753473	5.374922158904067
+Lung cancer	rs7216064	1.16
+Lung cancer	rs10197940	1.12
+Lung cancer	rs7086803	1.28
+Lung cancer	rs9387478	1.18
+Lung cancer	rs2395185	1.17
+Pancreatic cancer	rs10500715	1.32
+Pancreatic cancer	rs12456874	1.38
+Pancreatic cancer	rs9874556	1.31
+Pancreatic cancer	rs7853844	1.43
+Pancreatic cancer	rs10788473	1.27
+Pancreatic cancer	rs9783347	1.36
+Pancreatic cancer	rs1000589	1.27
+Colorectal cancer	rs4813802	1.1
+Colorectal cancer	rs11903757	1.16
+Colorectal cancer	rs10911251	1.09
+Colorectal cancer	rs3217810	1.2
+Colorectal cancer	rs59336	1.09
+Colorectal cancer	rs1912453	1.07
+Colorectal cancer	rs13130787	1.09
+Colorectal cancer	rs2057314	1.08
+Colorectal cancer	rs2128382	1.11
+Colorectal cancer	rs17094983	1.13
+Colorectal cancer	rs1665650	1.13
+Thyroid cancer	rs6759952	1.25
+Adverse response to chemotherapy in breast cancer (alopecia)	rs3820706	2.38
+Adverse response to chemotherapy in breast cancer (alopecia)	rs16830728	3.61
+Adverse response to chemotherapy in breast cancer (alopecia)	rs7476422	2.06
+Lobular breast cancer (menopausal hormone therapy interaction)	rs7648642	1.5625
+Lobular breast cancer (menopausal hormone therapy interaction)	rs11654964	1.67
+Breast cancer (menopausal hormone therapy interaction)	rs9579199	1.2048
+Breast cancer (menopausal hormone therapy interaction)	rs7192724	1.24
+Ovarian cancer	rs34289250	7.95
+Breast cancer	rs12922061	1.231
+Breast cancer	rs17221259	1.252
+Bladder cancer	rs10936599	1.1765
+Bladder cancer	rs907611	1.15
+Bladder cancer	rs6104690	1.1236
+Bladder cancer	rs4510656	1.1236
+Ovarian cancer in BRCA1 mutation carriers	rs3814113	1.3
+Ovarian cancer in BRCA1 mutation carriers	rs2665390	1.46
+Breast Cancer in BRCA1 mutation carriers	rs2290854	1.13
+Breast Cancer in BRCA1 mutation carriers	rs11196174	1.13
+Breast Cancer in BRCA1 mutation carriers	rs765855	5.374922158904067
+Breast Cancer in BRCA1 mutation carriers	rs8170	1.19
+Breast Cancer in BRCA1 mutation carriers	rs2046210	1.28
+Breast Cancer in BRCA1 mutation carriers	rs10771399	1.18
+Non-melanoma skin cancer	rs1805007	0.34
+Cervical cancer	rs13117307	1.28
+Cervical cancer	rs4282438	1.35
+Cervical cancer	rs8067378	1.19
+Cervical cancer	rs9277952	1.18
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+epirubicin+/-5FU)	rs3885907	2.66
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+epirubicin+/-5FU)	rs4474258	1.89
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+epirubicin+/-5FU)	rs7089227	1.99
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	rs594206	36.3
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	rs672203	5.33
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	rs6475600	7.78
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	rs6845621	5.53
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	rs10818894	10.4
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	rs10112481	5.12
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	rs637644	32.5
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	rs11644424	3.32
+Adverse response to chemotherapy in breast cancer (alopecia) (paclitaxel)	rs11059635	6.63
+Adverse response to chemotherapy in breast cancer (alopecia) (paclitaxel)	rs3844412	5.22
+Adverse response to chemotherapy in breast cancer (alopecia) (paclitaxel)	rs163818	11.5
+Adverse response to chemotherapy in breast cancer (alopecia) (paclitaxel)	rs698813	4.27
+Adverse response to chemotherapy in breast cancer (alopecia) (paclitaxel)	rs2838088	4.48
+Adverse response to chemotherapy in breast cancer (alopecia) (docetaxel)	rs4262906	4.36
+Adverse response to chemotherapy in breast cancer (alopecia) (docetaxel)	rs4234284	3.01
+Adverse response to chemotherapy in breast cancer (alopecia) (docetaxel)	rs6117615	3.89
+Adverse response to chemotherapy in breast cancer (alopecia) (docetaxel)	rs10443215	9.39
+Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	rs1858231	2.71
+Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	rs1870323	2.92
+Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	rs4262906	2.5
+Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	rs2471042	2.51
+Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	rs11255615	2.4
+Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	rs1493354	2.37
+Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	rs2032224	2.16
+"Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)"	rs4245739	1.19
+"Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)"	rs10069690	1.24
+"Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)"	rs3757318	1.33
+"Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)"	rs2363956	1.2195
+"Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)"	rs10771399	1.3889
+Bladder cancer	rs5003154	1.11
+Bladder cancer	rs4907479	1.13
+Bladder cancer	rs2204008	1.13
+Bladder cancer	rs10775480	1.13
+Bladder cancer	rs7747724	1.11
+Endometrial cancer	rs11679180	5.374922158904067
+Endometrial cancer	rs2891316	5.374922158904067
+Endometrial cancer	rs1777220	5.374922158904067
+Endometrial cancer	rs9459805	5.374922158904067
+Endometrial cancer	rs3773582	5.374922158904067
+Breast cancer (early onset)	rs653465	1.18
+Breast cancer (early onset)	rs2229882	1.45
+Breast cancer (early onset)	rs2392780	1.15
+Breast cancer (early onset)	rs2912774	1.29
+Breast cancer (early onset)	rs537626	1.29
+Breast cancer (early onset)	rs4784223	1.27
+Lung cancer (smoking interaction)	rs1316298	1.41
+Lung cancer (smoking interaction)	rs4589502	1.55
+Cervical cancer	rs997363	1.986
+Cervical cancer	rs7780883	3.28
+Cervical cancer	rs6726538	1.946
+Cervical cancer	rs8088832	1.94
+Cervical cancer	rs12068654	3.23
+Cervical cancer	rs4782151	1.91
+Cervical cancer	rs11985951	3.36
+Cervical cancer	rs6558578	2.31
+Cervical cancer	rs3899697	1.949
+Non-small cell lung cancer (recurrence rate)	rs1454694	2.12
+Colorectal cancer	rs1035209	1.12
+Colorectal cancer (diet interaction)	rs4143094	1.17
+Colorectal cancer (diet interaction)	rs2901879	1.11
+Colorectal cancer (diet interaction)	rs1871438	1.11
+Colorectal cancer (diet interaction)	rs1370916	1.11
+Colorectal cancer (diet interaction)	rs4849303	1.12
+Colorectal cancer (diet interaction)	rs4147045	1.2
+Colorectal cancer (diet interaction)	rs6989010	1.64
+Colorectal cancer (diet interaction)	rs7999699	1.32
+Colorectal cancer (diet interaction)	rs11671104	1.25
+Colorectal cancer (diet interaction)	rs7248888	1.37
+Colorectal cancer (diet interaction)	rs2593957	1.15
+Colorectal cancer (diet interaction)	rs12534701	1.17
+Colorectal cancer (diet interaction)	rs4855695	1.14
+Prostate cancer	rs4793529	0.28
+Prostate cancer	rs17632542	0.73
+Prostate cancer	rs188140481	2.9
+Colorectal cancer	rs10752881	1.07
+Colorectal cancer	rs12309274	1.11
+Breast cancer (early onset)	rs16886181	1.26
+Breast cancer (early onset)	rs16886448	1.37
+Breast cancer (early onset)	rs16886397	1.36
+Breast cancer (early onset)	rs3822625	1.36
+Breast cancer (early onset)	rs16886364	1.36
+Breast cancer (early onset)	rs16886113	1.35
+Breast cancer (early onset)	rs1017226	1.33
+Breast cancer (early onset)	rs7726354	1.37
+Breast cancer (early onset)	rs12655019	1.27
+Breast cancer (early onset)	rs16886034	1.36
+Breast cancer (early onset)	rs889312	1.29
+Breast cancer (early onset)	rs614367	1.34
+Urinary bladder cancer	rs62185668	1.19
+Bladder cancer (smoking interaction)	rs1711973	5.374922158904067
+Bladder cancer (smoking interaction)	rs2969540	5.374922158904067
+Bladder cancer (smoking interaction)	rs3752645	5.374922158904067
+Bladder cancer (smoking interaction)	rs12216499	6.281933766172631
+Bladder cancer (smoking interaction)	rs1258767	6.281933766172631
+Non-small cell lung cancer (recurrence rate)	rs1454694; rs17241910; rs5012808; rs28431436; rs10019279	2.09
+Prostate cancer	rs12682344	0.67
+Colorectal cancer	rs140355816	1.591
+Colorectal cancer	rs34245511	1.144
+Colorectal cancer	rs73376930	1.246
+Colorectal cancer	rs13343954	1.183
+Prostate cancer (early onset)	rs6983267	1.36
+Prostate cancer (early onset)	rs10993994	1.32
+Prostate cancer (early onset)	rs7127900	1.4
+Prostate cancer (early onset)	rs7931342	1.3
+Prostate cancer (early onset)	rs2005705	1.35
+Prostate cancer (early onset)	rs10505477	1.39
+Prostate cancer (early onset)	rs11228583	1.33
+Prostate cancer (early onset)	rs17632542	1.85
+Prostate cancer (early onset)	rs7126629	1.44
+Response to radiotherapy in cancer (late toxicity)	rs2788612	0.18
+Response to radiotherapy in cancer (late toxicity)	rs11595238	6.61
+Response to radiotherapy in cancer (late toxicity)	rs16958536	1.66
+Response to radiotherapy in cancer (late toxicity)	rs2840044	1.56
+Response to radiotherapy in cancer (late toxicity)	rs9832625	0.07
+Response to radiotherapy in cancer (late toxicity)	rs2823779	0.1
+Response to radiotherapy in cancer (late toxicity)	rs575018	0.13
+Response to radiotherapy in cancer (late toxicity)	rs17142289	0.35
+Urinary bladder cancer	rs10094872	1.26
+Esophageal squamous cell cancer (length of survival)	rs1050631	1.3
+Breast cancer	rs12355688	1.24
+Breast cancer	rs9628987; rs7535752	5.374922158904067
+Breast cancer	rs6797852; rs1810320	5.374922158904067
+Breast cancer	rs17051310; rs13116936	5.374922158904067
+Breast cancer	rs4455437; rs921551	5.374922158904067
+Breast cancer	rs6835704; rs17435444	5.374922158904067
+Breast cancer	rs3806872; rs16875333	5.374922158904067
+Breast cancer	rs11613298; rs2230754	5.374922158904067
+Breast cancer	rs10853029; rs3785856	5.374922158904067
+Breast cancer	rs6788895	1.22
+Breast cancer	rs3750817	1.22
+Esophageal cancer (squamous cell)	rs4785204	1.24
+Esophageal cancer (squamous cell)	rs6503659	1.27
+Esophageal cancer (squamous cell)	rs2239815	1.18
+Esophageal cancer (squamous cell)	rs2239612	1.21
+Esophageal cancer (squamous cell)	rs17761864	1.21
+Esophageal cancer (squamous cell)	rs2847281	1.2
+Esophageal cancer (squamous cell)	rs4822983	1.27
+Prostate cancer	rs10090154	1.68
+Prostate cancer	rs10505483	1.73
+Prostate cancer	rs10503733	1.29
+Prostate cancer	rs13254738	1.59
+Breast cancer	rs2284378	1.16
+Breast cancer (male)	rs903263	1.27
+Breast cancer (male)	rs1314913	1.57
+Breast cancer (male)	rs3803662	1.5
+Breast cancer (prognosis)	rs421379	1.61
+Breast cancer (prognosis)	rs3884558	1.46
+Breast cancer (prognosis)	rs3785982	1.4
+Breast cancer (prognosis)	rs2774307	1.3
+Breast cancer (prognosis)	rs1387389	1.28
+Breast cancer	rs16882214	1.43
+Breast cancer	rs12906542	2.0
+Colorectal cancer	rs8180040	1.28
+Colorectal cancer	rs12548021	1.28
+Colorectal cancer	rs3104964	1.265
+Urinary symptoms in response to radiotherapy in prostate cancer	rs17779457	2.4
+Response to radiotherapy in prostate cancer (toxicity)	rs7582141	0.37
+Lung cancer	rs13314271	1.13
+Colorectal cancer	rs35509282	1.53
+Breast cancer	rs4951011	1.09
+Breast cancer	rs11082321	1.08
+Pancreatic cancer	rs2736098	1.25
+Pancreatic cancer	rs7190458	1.46
+Pancreatic cancer	rs16986825	1.18
+Pancreatic cancer	rs1561927	1.15
+Pancreatic cancer	rs687289	1.27
+Pancreatic cancer	rs10919791	1.27
+Pancreatic cancer	rs31490	1.2
+Epithelial ovarian cancer	rs1413299	1.2
+Epithelial ovarian cancer	rs1192691	1.23
+Epithelial ovarian cancer	rs11175194	1.19
+Epithelial ovarian cancer	rs633862	1.19
+Epithelial ovarian cancer	rs2500488	1.472
+Epithelial ovarian cancer	rs6976769	1.458
+Non-small cell lung cancer (survival)	rs10023113	2.3
+Non-small cell lung cancer (survival)	rs17305086	2.14
+Non-small cell lung cancer (survival)	rs11733008	1.76
+Colorectal cancer	rs12241008	1.13
+Prostate cancer	rs1775148	1.06
+Prostate cancer	rs9443189	1.08
+Prostate cancer	rs7153648	1.11
+Prostate cancer	rs12051443	1.06
+Bladder cancer	rs11543198	1.41
+Breast cancer	rs140068132	1.67
+Response to chemotherapy in breast cancer (hypertension) (bevacizumab)	rs6453204	3.3
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs6453204	2.2
+Response to chemotherapy in breast cancer (hypertension) (bevacizumab)	rs130318	1.72
+Response to chemotherapy in breast cancer (hypertension) (bevacizumab)	rs1943466	1.82
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs130318	1.7
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs1943466	1.69
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs11685222	1.98
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs12467348	2.05
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs3773651	2.15
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs2731620	1.59
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs6878584	2.27
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs2496589	1.7
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs1962073	1.69
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs11786541	1.65
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs11257188	2.19
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	rs479825	1.64
+Prostate cancer	rs636291	1.18
+Breast cancer (survival)	rs12358475	1.33
+Breast cancer (survival)	rs1728400	1.25
+Colorectal cancer (calcium intake interaction)	rs1933755	1.19
+Colorectal cancer (calcium intake interaction)	rs6855885	1.11
+Colorectal cancer (calcium intake interaction)	rs1028166	1.49
+Prostate cancer	rs4749884	1.12
+Prostate cancer	rs12791447	1.23
+Prostate cancer	rs75718479	1.22
+Prostate cancer	rs58262369	1.28
+Colorectal cancer	rs2293582	1.21
+Colorectal cancer	rs7226855	1.25
+Colorectal cancer	rs1015563	1.12
+Lung cancer	rs7741164	1.17
+Lung cancer	rs72658409	1.2987013
+Lung cancer	rs11610143	1.1235955
+Lung cancer	rs3794742	1.098901
+Lung cancer	rs4921799	1.1235955
+Lung cancer	rs10969557	1.11
+Breast cancer (survival)	rs421379	1.49
+Colorectal cancer (aspirin and/or NSAID use interaction)	rs2965667	8.311444494027565
+Colorectal cancer (aspirin and/or NSAID use interaction)	rs16973225	8.311444494027565
+Platinum-induced myelosuppression in non-small cell lung cancer	rs13014982	5.374922158904067
+Thyroid cancer	rs10122541	1.54
+Thyroid cancer	rs7037324	1.54
+Disease-free survival in breast cancer	rs166870	2.3
+Disease-free survival in breast cancer	rs10825036	2.26
+Breast cancer (survival)	rs148760487	1.88
+Breast cancer (survival)	rs2059614	1.9
+Breast cancer (survival)	rs7149859	1.22
+Survival in rectal cancer	rs17026425	5.06
+Survival in rectal cancer	rs157411	2.89
+Survival in rectal cancer	rs7004484	2.79
+Survival in rectal cancer	rs338389	3.4
+Survival in rectal cancer	rs1555895	2.94
+Survival in rectal cancer	rs16867335	3.27
+Survival in rectal cancer	rs1573948	2.71
+Survival in rectal cancer	rs10152207	3.06
+Survival in rectal cancer	rs1570271	3.66
+Survival in rectal cancer	rs17057166	5.56
+Survival in rectal cancer	rs4868304	2.91
+Survival in rectal cancer	rs4959799	3.5
+Survival in rectal cancer	rs11138220	2.76
+Survival in rectal cancer	rs10275272	3.19
+Survival in rectal cancer	rs3781663	2.24
+Survival in rectal cancer	rs9419702	2.54
+Survival in colon cancer	rs4812219	3.27
+Survival in colon cancer	rs6105057	2.2
+Survival in colon cancer	rs13180087	2.4
+Survival in colon cancer	rs17325431	2.47
+Survival in colon cancer	rs3794924	2.37
+Survival in colon cancer	rs10921219	1.9
+Survival in colon cancer	rs17048372	2.17
+Survival in colon cancer	rs139156	2.76
+Survival in colon cancer	rs8035094	2.68
+Survival in colon cancer	rs658495	2.53
+Survival in microsatellite instability low/stable colorectal cancer	rs17087282	2.47
+Survival in microsatellite instability low/stable colorectal cancer	rs17048372	1.91
+Survival in microsatellite instability low/stable colorectal cancer	rs1998584	1.76
+Survival in microsatellite instability low/stable colorectal cancer	rs12187751	2.48
+Survival in microsatellite instability low/stable colorectal cancer	rs1573948	1.93
+Survival in microsatellite instability low/stable colorectal cancer	rs10040610	1.96
+Survival in microsatellite instability low/stable colorectal cancer	rs1493383	1.81
+Survival in microsatellite instability low/stable colorectal cancer	rs13180087	2.06
+Survival in microsatellite instability low/stable colorectal cancer	rs1407508	2.53
+Survival in microsatellite instability low/stable colorectal cancer	rs912294	1.67
+Survival in endocrine treated breast cancer (estrogen-receptor positive)	rs8113308	1.69
+Prostate cancer aggressiveness	rs35148638	0.088
+Prostate cancer aggressiveness	rs78943174	0.289
+Prostate cancer aggressiveness	rs62113212	0.138
+Prostate cancer	rs12597458	1.11
+Prostate cancer	rs12198220	1.12
+Prostate cancer	rs8064454	1.24
+Prostate cancer	rs17765344	1.19
+Prostate cancer	rs71277158	1.22
+Prostate cancer	rs7929962	1.15
+Prostate cancer	rs7758229	1.15
+Prostate cancer	rs2430386	1.14
+Prostate cancer	rs7725218	1.15
+Prostate cancer	rs10774740	1.14
+Breast cancer	rs2912780	1.302
+Breast cancer	rs2193094	1.337
+Colorectal cancer	rs72647484	1.24
+Colorectal cancer	rs202110856	1.51
+Colorectal cancer	rs10904849	1.13
+Colorectal cancer	rs79900961	1.49
+Colorectal cancer	rs16941835	1.16
+Colorectal cancer	rs11118883	1.12
+Colorectal cancer	rs76316943	1.58
+Colorectal cancer	rs4768903	1.1
+Colorectal cancer	rs35107139	1.1
+Obesity in adult survivors of childhood cancer exposed to cranial radiation	rs4971486	1.99
+Obesity in adult survivors of childhood cancer exposed to cranial radiation	rs12646911	1.89
+Obesity in adult survivors of childhood cancer exposed to cranial radiation	rs140236920	1.77
+Obesity in adult survivors of childhood cancer exposed to cranial radiation	rs35669975	1.92
+Obesity in adult survivors of childhood cancer not exposed to cranial radiation	rs12073359	1.7
+Gastric cancer	rs4578395	1.19
+Gastric cancer	rs10074991	1.25
+Gastric cancer	rs2294693	1.14
+Cardia gastric cancer	rs10074991	1.2048193
+Non-cardia gastric cancer	rs2294693	1.18
+Non-cardia gastric cancer	rs10074991	1.3
+Pancreatic cancer	rs11655237	1.26
+Pancreatic cancer	rs1486134	1.14
+Pancreatic cancer	rs17688601	1.1363636
+Pancreatic cancer	rs9854771	1.1235955
+Pancreatic cancer	rs9554197	1.14
+Pancreatic cancer	rs962856	1.12
+Pancreatic cancer	rs1517037	1.1494253
+Pancreatic cancer	rs7310409	1.11
+Pancreatic cancer	rs351365	1.1235955
+Pancreatic cancer	rs6073450	1.11
+Pancreatic cancer	rs1747924	1.1111112
+Gastric cancer	rs4072037	1.32
+Endometrial cancer	rs2797160	1.21
+Endometrial cancer	rs9600103	1.23
+Endometrial cancer	rs1740828	1.2
+Endometrial cancer	rs11651052	1.16
+Bladder cancer	rs2042329	1.4
+Progression free survival in metastatic colorectal cancer (CAPOX-B vs CAPOX-B plus cetuximab)	rs2936519	1.8867927
+Progression free survival in metastatic colorectal cancer (CAPOX-B vs CAPOX-B plus cetuximab)	rs2073016	1.62
+Progression free survival in metastatic colorectal cancer (CAPOX-B vs CAPOX-B plus cetuximab)	rs4377367	1.5873016
+Survival in colorectal cancer	rs12224794	1.1494253
+Survival in colorectal cancer (non-distant metastatic)	rs1075232	1.49
+Gastric cancer	rs760077; rs4072037	1.27
+Gastric cancer	rs140081212	1.2658228
+Gastric cancer	chr11:102118158-A	4.9
+Gastric cancer	chr2:85874332	11.1
+Gastric cancer	chr11:107643195	4.27
+Gastric cancer	chr11:107629783	6.87
+Gastric cancer	rs2294008	1.21
+Gastric cancer	rs10036575	1.2345679
+Prostate cancer	rs2659124	1.18
+Prostate cancer	rs116041037	2.67
+Prostate cancer	rs77541621	2.0408163
+Prostate cancer	rs72725879	1.92
+Prostate cancer	rs3731827	1.13
+Prostate cancer	rs7808935	1.17
+Prostate cancer	rs142463603	1.18
+Prostate cancer	rs376592364	1.2
+Prostate cancer	12:49672714	1.14
+Prostate cancer	12:53309584	1.25
+Prostate cancer	rs11263763	1.22
+Prostate cancer	rs8071558	1.14
+Prostate cancer	rs4646284	1.18
+Non-cardia gastric cancer	rs4072037	1.3513513
+Non-cardia gastric cancer	rs80142782	1.6129031
+Non-cardia gastric cancer	rs7712641	1.1904762
+Non-cardia gastric cancer	rs2294008	1.2
+Non-cardia gastric cancer	rs1108143	1.23
+Colorectal cancer (oestrogen-progestogen hormone therapy interaction)	rs964293	1.6393442
+Epithelial ovarian cancer	rs3814113	1.2658228
+Epithelial ovarian cancer	rs10088218	1.2987013
+Epithelial ovarian cancer	rs2072590	1.14
+Epithelial ovarian cancer	rs7651446	1.59
+Epithelial ovarian cancer	rs8170	1.18
+Epithelial ovarian cancer	rs9303542	1.14
+Epithelial ovarian cancer	rs11782652	9.337880221594288
+Epithelial ovarian cancer	rs1243180	1.1
+Epithelial ovarian cancer	rs757210	1.11
+Epithelial ovarian cancer	rs183211	1.11
+Colorectal cancer	rs6066825	1.09
+Progression free survival in metastatic colorectal cancer (chemotherapy interaction)	rs885036	2.13
+Breast cancer	rs2111836	1.32
+Breast cancer	rs13025833	1.2
+Breast cancer	rs13074711	1.14
+Response to carboplatin in ovarian cancer (MTT IC50)	rs8091660	5.374922158904067
+Response to carboplatin and paclitaxel in ovarian cancer (MTT IC50)	rs201023017	6.281933766172631
+Response to carboplatin and paclitaxel in ovarian cancer (MTT IC50)	rs66696671	6.281933766172631
+Response to carboplatin and paclitaxel in ovarian cancer (Caspase 3/7 EC50)	rs12025262	6.281933766172631
+Response to carboplatin and paclitaxel in ovarian cancer (Caspase 3/7 EC50)	rs10674174	6.281933766172631
+Response to carboplatin and paclitaxel in ovarian cancer (Caspase 3/7 EC50)	rs7572644	5.374922158904067
+Response to paclitaxel in ovarian cancer (MTT IC50)	rs185229225	6.281933766172631
+Response to paclitaxel in ovarian cancer (Caspase 3/7 EC50)	rs201083182	5.374922158904067
+Response to paclitaxel in ovarian cancer (Caspase 3/7 EC50)	rs3842595	6.281933766172631
+Non-cardia gastric cancer	rs13361707	1.32
+Response to Pazopanib in cancer (hepatotoxicity)	rs1800625	1.8
+Colorectal or endometrial cancer	rs10457678	1.1
+Colorectal or endometrial cancer	rs17035310	1.13
+Colorectal or endometrial cancer	rs3184504	1.1
+Colorectal or endometrial cancer	rs1512436	1.0752687
+Colorectal or endometrial cancer	rs10217586	1.0752687
+Colorectal or endometrial cancer	rs4853036	1.0869565
+Colorectal or endometrial cancer	rs4789378	1.0752687
+Colorectal or endometrial cancer	rs12446552	1.0869565
+Colorectal or endometrial cancer	rs4378954	1.15
+Colorectal or endometrial cancer	rs77922938	1.1764705
+Colorectal or endometrial cancer	rs1952157	1.08
+Colorectal or endometrial cancer	rs76525880	1.16
+Colorectal or endometrial cancer	rs12970291	1.27
+Colorectal or endometrial cancer	rs6051080	1.12
+Colorectal or endometrial cancer	rs11085466	1.15
+Colorectal or endometrial cancer	rs17503919	1.17
+Colorectal or endometrial cancer	rs76225372	1.21
+Colorectal or endometrial cancer	rs7740797	1.12
+Colorectal or endometrial cancer	rs3181245	1.12
+Colorectal or endometrial cancer	rs9901225	1.11
+Colorectal or endometrial cancer	rs2052678	1.1627907
+Colorectal or endometrial cancer	rs34462569	1.22
+Colorectal or endometrial cancer	rs4727012	1.18
+Colorectal or endometrial cancer	rs112541862	1.3
+Colorectal or endometrial cancer	rs606460	1.11
+Colorectal or endometrial cancer	rs11607499	1.27
+Colorectal or endometrial cancer	rs12817211	1.12
+Colorectal or endometrial cancer	rs11150038	1.27
+Colorectal or endometrial cancer	rs4816890	1.1111112
+Survival in colorectal cancer (distant metastatic)	rs1372474	1.53
+Survival in colorectal cancer (distant metastatic)	rs1442089	1.56
+Prostate cancer (survival)	rs114997855	1.67
+Prostate cancer (survival)	rs76010824	1.26
+Prostate cancer (survival)	rs140659849	2.61
+Prostate cancer (survival)	rs723557	1.15
+Colorectal cancer (SNP x SNP interaction)	rs10879357 x rs1571218	1.25
+Colorectal cancer (SNP x SNP interaction)	rs367615 x rs10795668	1.35
+Colorectal cancer (SNP x SNP interaction)	rs10114408 x rs4779584	1.37
+Colorectal cancer (SNP x SNP interaction)	rs9365723 x rs6687758	1.27
+Colorectal cancer (SNP x SNP interaction)	rs39453 x rs6687758	1.28
+Colorectal cancer (SNP x SNP interaction)	rs17730929 x rs7136702	1.47
+Colorectal cancer (SNP x SNP interaction)	rs4591517 x rs4925386	1.06
+Prostate cancer (SNP x SNP interaction)	rs2219968 x rs1571801	1.3
+Prostate cancer (SNP x SNP interaction)	rs10795917 x rs8102476	1.24
+Prostate cancer (SNP x SNP interaction)	rs4489787 x rs4430796	1.47
+Prostate cancer (SNP x SNP interaction)	rs1916284 x rs12418451	1.2658
+Prostate cancer (SNP x SNP interaction)	rs9649213 x rs4962416	1.28
+Prostate cancer (SNP x SNP interaction)	rs1243647 x rs12418451	1.3333
+Prostate cancer (SNP x SNP interaction)	rs290258 x rs7679673	1.3333
+Prostate cancer (SNP x SNP interaction)	rs12682851 x rs1447295	1.3889
+Prostate cancer (SNP x SNP interaction)	rs13192613 x rs11649743	1.37
+Prostate cancer (SNP x SNP interaction)	rs16867225 x rs1859962	1.5625
+Prostate cancer (SNP x SNP interaction)	rs6089829 x rs2735839	1.3514
+Prostate cancer (SNP x SNP interaction)	rs7789197 x rs1447295	1.5152
+Prostate cancer (SNP x SNP interaction)	rs7717572 x rs2660753	1.94
+Prostate cancer (SNP x SNP interaction)	rs4463179 x rs887391	1.5625
+Prostate cancer (SNP x SNP interaction)	rs2400997 x rs10934853	1.25
+Prostate cancer (SNP x SNP interaction)	rs12485321 x rs6465657	1.2346
+Prostate cancer (SNP x SNP interaction)	rs12628051 x rs7127900	1.3
+Prostate cancer (SNP x SNP interaction)	rs13264970 x rs1571801	1.2987
+Prostate cancer (SNP x SNP interaction)	rs13258681 x rs7127900	1.32
+Prostate cancer (SNP x SNP interaction)	rs2523395 x rs1512268	1.24
+Prostate cancer (SNP x SNP interaction)	rs7694725 x rs10086908	1.36
+Prostate cancer (SNP x SNP interaction)	rs11637980 x rs1447295	1.4706
+Prostate cancer (SNP x SNP interaction)	rs6766510 x rs10993994	1.58
+Prostate cancer (SNP x SNP interaction)	rs735172 x rs887391	1.31
+Prostate cancer (SNP x SNP interaction)	rs2711721 x rs5759167	1.28
+Prostate cancer (SNP x SNP interaction)	rs1002979 x rs12621278	1.5873
+Prostate cancer (SNP x SNP interaction)	rs16944141 x rs1512268	1.5385
+Prostate cancer (SNP x SNP interaction)	rs784411 x rs12418451	1.42
+Prostate cancer (SNP x SNP interaction)	rs998124 x rs10934853	1.33
+Prostate cancer (SNP x SNP interaction)	rs13398206 x rs10896449	1.24
+Prostate cancer (SNP x SNP interaction)	rs10885582 x rs1447295	1.3699
+Prostate cancer (SNP x SNP interaction)	rs12317459 x rs16901979	2.06
+Prostate cancer (SNP x SNP interaction)	rs10940579 x rs4962416	1.32
+Prostate cancer (SNP x SNP interaction)	rs10277209 x rs1859962	1.36
+Prostate cancer (SNP x SNP interaction)	rs7847271 x rs10934853	1.4925
+Prostate cancer (SNP x SNP interaction)	rs6763848 x rs9623117	1.3
+Prostate cancer (SNP x SNP interaction)	rs9567349 x rs1465618	1.6393
+Prostate cancer (SNP x SNP interaction)	rs543686 x rs6983267	1.24
+Prostate cancer (SNP x SNP interaction)	rs6005451 x rs445114	1.42
+Prostate cancer (SNP x SNP interaction)	rs5751168 x rs7679673	1.44
+Prostate cancer (SNP x SNP interaction)	rs6507016 x rs5945619	1.2821
+Prostate cancer (SNP x SNP interaction)	rs4821941 x rs7127900	1.3
+Prostate cancer (SNP x SNP interaction)	rs3789080 x rs7127900	1.4085
+Prostate cancer (SNP x SNP interaction)	rs11605083 x rs7679673	1.28
+Prostate cancer (SNP x SNP interaction)	rs731174 x rs4430796	1.27
+Prostate cancer (SNP x SNP interaction)	rs8057939 x rs6465657	1.37
+Prostate cancer (SNP x SNP interaction)	rs9757252 x rs17021918	1.25
+Prostate cancer (SNP x SNP interaction)	rs10456809 x rs10086908	1.25
+Prostate cancer (SNP x SNP interaction)	rs11720607 x rs10486567	1.3699
+Prostate cancer (SNP x SNP interaction)	rs9351730 x rs9364554	1.25
+Prostate cancer (SNP x SNP interaction)	rs1866967 x rs8102476	1.2195
+Cervical cancer	rs73730372	1.67
+Breast cancer	rs12118297	1.1
+Breast cancer	rs16992204	1.13
+Breast cancer	rs12628403	1.17
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs17599026	3.12
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs11574532	3.25
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs342442	1.9607843
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs4534636	1.96
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs8098701	2.41
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs7366282	3.2
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs10209697	2.66
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs4997823	2.0408163
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs7356945	1.74
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs6003982	1.9607843
+"Response to radiotherapy in prostate cancer (toxicity, urinary frequency)"	rs10101158	1.8
+"Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)"	rs7720298	2.71
+"Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)"	rs17362923	2.7
+"Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)"	rs76273496	3.68
+"Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)"	rs2203205	1.74
+"Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)"	rs144596911	3.6
+"Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)"	rs62091368	4.36
+"Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)"	rs141342719	3.5
+"Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)"	rs673783	2.49
+"Response to radiotherapy in prostate cancer (toxicity, rectal bleeding)"	rs12497518	1.6666665
+"Response to radiotherapy in prostate cancer (toxicity, rectal bleeding)"	rs141044160	2.68
+"Response to radiotherapy in prostate cancer (toxicity, rectal bleeding)"	rs7432328	3.36
+"Response to radiotherapy in prostate cancer (toxicity, rectal bleeding)"	rs6999859	1.73
+"Response to radiotherapy in prostate cancer (toxicity, rectal bleeding)"	rs4804134	1.6666665
+"Response to radiotherapy in prostate cancer (toxicity, rectal bleeding)"	rs360071	1.61
+Thyroid cancer	rs10069690	1.2
+Oropharynx cancer	rs1229984	1.832173
+Oropharynx cancer	rs4284656	1.7409471
+Oropharynx cancer	rs62178732	1.3898541
+Oropharynx cancer	rs17358800	1.2551776
+Oropharynx cancer	rs1021455	1.2520347
+Oropharynx cancer	rs111510828	1.2493753
+Oropharynx cancer	rs112500619	1.2391574
+Oropharynx cancer	rs76122614	1.206127
+Oropharynx cancer	rs7870381	1.1848341
+Oropharynx cancer	rs9644630	1.1837121
+Oropharynx cancer	rs6847067	1.1861
+Oropharynx cancer	rs1837494	1.1912
+Oropharynx cancer	rs1961637	1.2057
+Oropharynx cancer	rs1453414	1.2157
+Oropharynx cancer	rs2216824	1.3186
+Oropharynx cancer	rs3828805	1.3699
+Oropharynx cancer	rs35189640	1.7533
+Breast cancer	rs10864459	1.0526316
+Breast cancer	rs17489300	1.0309278
+Breast cancer	rs11903787	1.098901
+Breast cancer	rs2242652	1.22
+Breast cancer	rs7726159	1.07
+Breast cancer	rs11155804	1.15
+Breast cancer	rs6585202	1.1
+Breast cancer	rs4980383	1.07
+Breast cancer	rs67073037	1.0869565
+Breast cancer	rs114962751	1.22
+Prostate cancer	kgp1923988	1.41
+Prostate cancer	rs3123636	1.37
+Prostate cancer	kgp9645322	2.39
+Prostate cancer	rs10763567	1.31
+Prostate cancer	rs12270641	1.4
+Prostate cancer	rs11651052	1.37
+Prostate cancer	rs56005245	1.41
+Prostate cancer	rs138042437	13.25
+Prostate cancer	rs4506170	1.51
+Cancer	rs2974935	1.1
+Cancer	rs1057941	1.1
+Cancer	rs11119608	1.1111112
+Cancer	rs75316749	1.1
+Cancer	rs115707823	1.1
+Cancer	rs115392158	1.1
+Cancer	rs147527678	1.1
+Cancer	rs4604234	1.1
+Cancer	rs12349081	1.1
+Cancer	rs1011970	1.1
+Cancer	rs3184504	1.1
+Cancer	rs11571833	1.6
+Cancer	rs12601991	1.1
+Cancer	rs4808075	1.1
+Cancer	rs11907546	1.1111112
+Cancer	rs56404467	1.2
+Cancer	rs2300206	1.1111112
+Cancer (pleiotropy)	rs186507655	9.337880221594288
+Cancer (pleiotropy)	rs2075570	5.374922158904067
+Cancer (pleiotropy)	rs481519	8.311444494027565
+Cancer (pleiotropy)	rs7679673	10.322869821359998
+Cancer (pleiotropy)	rs7725218	9.337880221594288
+Cancer (pleiotropy)	rs1862626	11.317188178518519
+Cancer (pleiotropy)	rs147680653	6.281933766172631
+Cancer (pleiotropy)	rs115707823	6.281933766172631
+Cancer (pleiotropy)	rs115392158	6.281933766172631
+Cancer (pleiotropy)	rs147527678	7.344789086221368
+Cancer (pleiotropy)	rs1011970	5.374922158904067
+Cancer (pleiotropy)	rs11200014	34.219793126666666
+Cancer (pleiotropy)	rs7931342	13.359656932786887
+Cancer (pleiotropy)	rs148883465	7.344789086221368
+Cancer (pleiotropy)	rs11168936	6.281933766172631
+Cancer (pleiotropy)	rs73110464	14.30672520723077
+Cancer (pleiotropy)	rs3184504	6.281933766172631
+Cancer (pleiotropy)	rs11571818	9.337880221594288
+Cancer (pleiotropy)	rs11844632	9.337880221594288
+Cancer (pleiotropy)	rs12601991	27.25385631727273
+Cancer (pleiotropy)	rs4808075	8.311444494027565
+Cancer (pleiotropy)	rs11907546	5.374922158904067
+Cancer (pleiotropy)	rs141752671	7.344789086221368
+Cancer (pleiotropy)	rs11065979	5.374922158904067
+Cancer (pleiotropy)	rs2300206	5.374922158904067
+Cancer (pleiotropy)	rs56084662	8.311444494027565
+Breast cancer (estrogen-receptor negative)	rs10864459	1.1111112
+Breast cancer (estrogen-receptor negative)	rs17489300	1.1111112
+Breast cancer (estrogen-receptor negative)	rs4245739	1.13
+Breast cancer (estrogen-receptor negative)	rs12710696	1.1
+Breast cancer (estrogen-receptor negative)	rs11903787	1.1111112
+Breast cancer (estrogen-receptor negative)	rs2242652	1.18
+Breast cancer (estrogen-receptor negative)	rs7726159	1.09
+Breast cancer (estrogen-receptor negative)	rs2736108	1.1235955
+Breast cancer (estrogen-receptor negative)	rs12662670	1.2
+Breast cancer (estrogen-receptor negative)	rs11155804	1.16
+Breast cancer (estrogen-receptor negative)	rs10995190	1.1235955
+Breast cancer (estrogen-receptor negative)	rs4980383	1.08
+Breast cancer (estrogen-receptor negative)	rs7297051	1.1627907
+Breast cancer (estrogen-receptor negative)	rs10771399	1.2658228
+Breast cancer (estrogen-receptor negative)	rs4784227	1.15
+Breast cancer (estrogen-receptor negative)	rs17817449	1.098901
+Breast cancer (estrogen-receptor negative)	rs11075995	1.11
+Breast cancer (estrogen-receptor negative)	rs56069439	1.16
+Breast cancer (estrogen-receptor negative)	rs8170	1.15
+Breast cancer (estrogen-receptor negative)	rs67073037	1.0869565
+Breast cancer (estrogen-receptor negative)	rs115635831	1.36
+Breast cancer (estrogen-receptor negative)	rs12870942	1.09
+Breast cancer (estrogen-receptor negative)	rs1011970	1.11
+Breast cancer (estrogen-receptor negative)	rs17356907	1.098901
+Breast cancer (estrogen-receptor negative)	rs11571833	1.32
+Response to radiotherapy in prostate cancer (overall toxicity)	rs11230328	0.31
+Response to radiotherapy in prostate cancer (overall toxicity)	rs147596965	0.67
+Response to radiotherapy in prostate cancer (overall toxicity)	rs77530448	0.36
+Response to radiotherapy in prostate cancer (overall toxicity)	rs4906759	0.55
+Response to radiotherapy in prostate cancer (overall toxicity)	rs71610881	0.6
+Response to radiotherapy in prostate cancer (overall toxicity)	rs141799618	0.44
+Response to radiotherapy in prostate cancer (overall toxicity)	rs2842169	0.28
+Response to radiotherapy in prostate cancer (overall toxicity)	rs11219068	0.28
+Response to radiotherapy in prostate cancer (overall toxicity)	rs8075565	0.28
+Response to radiotherapy in prostate cancer (overall toxicity)	rs6535028	0.29
+Response to radiotherapy in prostate cancer (overall toxicity)	rs4775602	0.23
+Response to radiotherapy in prostate cancer (overall toxicity)	rs60481745	0.37
+Response to radiotherapy in prostate cancer (overall toxicity)	rs7829759	0.33
+Response to radiotherapy in prostate cancer (overall toxicity)	rs79604958	0.47
+Response to radiotherapy in prostate cancer (overall toxicity)	rs10770857	0.17
+Response to radiotherapy in prostate cancer (overall toxicity)	rs12591436	0.18
+Breast cancer (estrogen-receptor negative)	rs13074711	1.29
+Breast cancer (estrogen-receptor negative)	rs10069690	1.3
+Breast cancer (estrogen-receptor positive)	rs12998806	1.34
+Breast cancer-free interval (treatment with aromatase inhibitor)	rs13260300	1.64
+Estrogen receptor status in breast cancer	rs3135718	1.33
+Estrogen receptor status in HER2 negative breast cancer	rs3135724	1.79
+Prostate cancer	rs1031588; rs1456305; rs6994316; rs1456314; rs7825414; rs17831626; rs7816535; rs1016343; rs1551510; rs6470494; rs1378897; rs6993569; rs1016342; rs1456306	2.1
+Response to carboplatin in ovarian cancer (MTT IC50)	rs150303591	6.281933766172631
+Oral cavity and pharyngeal cancer	rs79767424	1.812908
+Oral cavity and pharyngeal cancer	rs1453414	1.1945
+Oral cavity and pharyngeal cancer	rs3828805	1.2759
+Oral cavity and pharyngeal cancer	rs77452476	1.24
+Oral cavity cancer	rs6547741	1.1983223
+Oral cavity cancer	rs1229984	1.7436792
+Oral cavity cancer	rs10462706	1.3594345
+Oral cavity cancer	rs8181047	1.24
+Oral cavity cancer	rs928674	1.3252
+Oral cavity cancer	rs10851478	1.1865
+Oral cavity cancer	rs2398180	1.201
+Oral cavity cancer	rs3129780	1.2373
+Oral cavity cancer	rs1800628	1.3962
+Colorectal cancer	rs651907	1.0752687
+Colorectal cancer	rs4711689	1.11
+Colorectal cancer	rs2450115	1.12
+Colorectal cancer	rs4919687	1.14
+Colorectal cancer	rs10506868	1.1
+Colorectal cancer	rs11064437	1.12
+Colorectal cancer	rs17817050	1.12
+Colorectal cancer	rs6061231	1.18
+Colorectal cancer	rs6469656; rs2450115	1.2
+Thyroid cancer	rs11693806	1.43
+Thyroid cancer	rs2466076	1.32
+Thyroid cancer	rs1588635	1.69
+Thyroid cancer	rs368187	1.39
+Thyroid cancer	rs12129938	1.32
+Thyroid cancer	rs6793295	1.23
+Thyroid cancer	rs73227498	1.37
+Thyroid cancer	rs7902587	1.41
+Thyroid cancer	rs2289261	1.23
+Thyroid cancer	rs56062135	1.24
+Colorectal cancer	rs7528276	1.86
+Colorectal cancer	rs1367374	1.37
+Colorectal cancer	rs143046984	1.65
+Colorectal cancer	rs142319636	1.69
+Colorectal cancer	rs658191	1.86
+Colorectal cancer	rs2286313	1.66
+Colorectal cancer	rs11874392	1.27
+Survival in head and neck cancer	rs2299187	3.26
+Pancreatic cancer	rs2816938	1.2
+Pancreatic cancer	rs10094872	1.15
+Pancreatic cancer	rs35226131	1.4084507
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs875858	3.6
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs11017056	2.61
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs1326116	2.77
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs8089250	2.72
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs6436559	3.34
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs1566691	3.64
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs1027796	2.38
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs2213920	2.63
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs4438470	2.71
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs17815605	2.886
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs11740657	2.776
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	rs10997287	4.0816326
+Endometrial cancer	rs11841589	1.15
+Endometrial cancer	rs13328298	1.13
+Endometrial cancer	rs4733613	1.1904762
+Endometrial cancer	rs937213	1.1111112
+Endometrial cancer	rs2498796	1.1235955
+Endometrial cancer	rs11263763	1.2
+Endometrial cancer	rs2414098	1.17
+Endometrial cancer	rs17232730	1.14
+Lung cancer	rs2853677	1.2818
+Lung cancer	rs3019885	1.2394
+Lung cancer	rs6580649	1.2169892
+Lung cancer	rs7900823	1.7850769
+Lung cancer	rs9322193	1.2508
+Multiple keratinocyte cancers	rs4761496	5.046
+Multiple keratinocyte cancers	rs75790006	4.836
+Multiple keratinocyte cancers	chr3:80136427	4.825
+Multiple keratinocyte cancers	chr15:89432448	4.751
+Multiple keratinocyte cancers	chr3:79848880	4.739
+Multiple keratinocyte cancers	rs17393453	4.734
+Multiple keratinocyte cancers	rs59112743	4.699
+Multiple keratinocyte cancers	rs2040609	4.678
+Multiple keratinocyte cancers	rs80069861	4.664
+Multiple keratinocyte cancers	rs35401316	4.646
+Multiple keratinocyte cancers	rs11867566	4.643
+Multiple keratinocyte cancers	chr2:49725708	4.617
+Multiple keratinocyte cancers	rs9381952	4.591
+Multiple keratinocyte cancers	rs10948606	4.589
+Multiple keratinocyte cancers	chr4:6335966	4.571
+Multiple keratinocyte cancers	chr2:49762165	4.568
+Multiple keratinocyte cancers	rs9370019	4.546
+Epithelial ovarian cancer	rs2165109	1.086051
+Epithelial ovarian cancer	rs9886651	1.0802044
+Epithelial ovarian cancer	rs7953249	1.0834533
+HER2 status in breast cancer	rs68130068	5.374922158904067
+Colorectal cancer	rs7252505	1.19
+Colorectal cancer	rs56848936	1.45
+Gallbladder cancer	rs1558375	1.47
+Gallbladder cancer	rs17209837	1.61
+Body mass index (change over time) in cancer	rs8044868	0.031
+Body mass index (change over time) in lung cancer	rs712419	0.076
+Body mass index (change over time) in lung cancer	rs17601580	0.112
+Body mass index (change over time) in lung cancer	rs4346053	0.1033
+Body mass index (change over time) in gastrointestinal cancer	rs4751240	0.1
+Body mass index (change over time) in gastrointestinal cancer	rs3758141	0.087
+Body mass index (change over time) in gastrointestinal cancer	rs927251	0.083
+Body mass index (change over time) in gastrointestinal cancer or chronic obstructive pulmonary disease	rs4751240	0.1
+Body mass index (change over time) in gastrointestinal cancer or chronic obstructive pulmonary disease	rs9847124	0.07
+Body mass index (change over time) in gastrointestinal cancer or chronic obstructive pulmonary disease	rs3774854	0.05
+Body mass index (change over time) in gastrointestinal cancer or chronic obstructive pulmonary disease	rs10120246	0.08
+Body mass index (change over time) in lung cancer or chronic obstructive pulmonary disease	rs7042889	0.136
+Body mass index (change over time) in lung cancer or chronic obstructive pulmonary disease	rs34585985	0.121
+Body mass index (change over time) in lung cancer or chronic obstructive pulmonary disease	rs17264034	0.081
+Body mass index (change over time) in lung cancer or chronic obstructive pulmonary disease	rs6885147	0.086
+Body mass index (change over time) in lung cancer or chronic obstructive pulmonary disease	rs16869212	0.079
+Body mass index (change over time) in cancer or chronic obstructive pulmonary disease	rs188981	0.025
+Body mass index (change over time) in cancer or chronic obstructive pulmonary disease	rs8044868	0.029
+Body mass index (change over time) in cancer or chronic obstructive pulmonary disease	rs11698834	0.034
+Response to platinum-based neoadjuvant chemotherapy in cervical cancer	rs6812281	2.37
+Response to platinum-based neoadjuvant chemotherapy in cervical cancer	rs1742101	1.92
+Response to platinum-based neoadjuvant chemotherapy in cervical cancer	rs1364121	1.98
+Plasma estrone conjugates levels in resected early stage estrogen-receptor positive breast cancer	rs4149056	0.5
+Plasma estrone conjugates levels in resected early stage estrogen-receptor positive breast cancer	rs2900478	0.48
+Estrone conjugates/estrone ratio in resected early stage estrogen-receptor positive breast cancer	rs10841753	0.43
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs10953024	0.49
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs1453308	0.33
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs16952550	0.33
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs17601876	0.24
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs1453307	0.3463
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs16942732	0.2847
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs7105310	0.3841
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	chr1:101579551	0.322
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs16851421	0.2489
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs113883744	0.2971
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs1468574	0.2847
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs1420338	0.2432
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs1416584	0.4453
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	rs3858207	0.2398
+Plasma estrone levels in resected estrogen-receptor positive breast cancer	rs12586722	0.3
+Plasma estrone levels in resected estrogen-receptor positive breast cancer	rs8014252	0.2981
+Plasma androstenedione levels in resected early stage-receptor positive breast cancer	rs57712673	0.36
+Plasma androstenedione levels in resected early stage-receptor positive breast cancer	rs59964204	0.45
+Plasma androstenedione levels in resected early stage-receptor positive breast cancer	rs34346910	0.49
+Plasma androstenedione levels in resected early stage-receptor positive breast cancer	rs6988985	0.25
+Plasma androstenedione levels in resected early stage-receptor positive breast cancer	rs7075481	0.3776
+Survival in pancreatic cancer	rs113988120	1.79
+Survival in pancreatic cancer	rs4568126	1.18
+Survival in pancreatic cancer	rs4780973	1.22
+Survival in pancreatic cancer	rs1000589	1.31
+Survival in pancreatic cancer	rs10734079	2.63
+Survival in pancreatic cancer	rs10736390	1.3333333
+Survival in pancreatic cancer	rs10741177	2.17
+Survival in pancreatic cancer	rs10764826	2.19
+Survival in pancreatic cancer	rs10767646	1.4084507
+Survival in pancreatic cancer	rs10817611	1.44
+Survival in pancreatic cancer	rs10829514	2.18
+Survival in pancreatic cancer	rs10829515	2.21
+Survival in pancreatic cancer	rs10835188	1.4084507
+Survival in pancreatic cancer	rs10983614	1.369863
+Survival in pancreatic cancer	rs11016537	2.18
+Survival in pancreatic cancer	rs11062040	1.4
+Survival in pancreatic cancer	rs11639759	1.56
+Survival in pancreatic cancer	rs1165805	1.43
+Survival in pancreatic cancer	rs12101726	1.83
+Survival in pancreatic cancer	rs12209785	1.37
+Survival in pancreatic cancer	rs12362504	1.4
+Survival in pancreatic cancer	rs12620038	1.3888888
+Survival in pancreatic cancer	rs12786130	1.3888888
+Survival in pancreatic cancer	rs1352757	1.35
+Survival in pancreatic cancer	rs1391315	1.82
+Survival in pancreatic cancer	rs1408536	2.16
+Survival in pancreatic cancer	rs1408537	2.17
+Survival in pancreatic cancer	rs1414153	1.41
+Survival in pancreatic cancer	rs1567532	1.38
+Survival in pancreatic cancer	rs1630858	1.49
+Survival in pancreatic cancer	rs16861827	1.7
+Survival in pancreatic cancer	rs17077369	1.63
+Survival in pancreatic cancer	rs17124276	1.36
+Survival in pancreatic cancer	rs17275283	1.37
+Survival in pancreatic cancer	rs1924687	2.18
+Survival in pancreatic cancer	rs1944782	1.36
+Survival in pancreatic cancer	rs1944788	1.37
+Survival in pancreatic cancer	rs2152155	2.18
+Survival in pancreatic cancer	rs2218400	1.38
+Survival in pancreatic cancer	rs2900174	3.3
+Survival in pancreatic cancer	rs2989505	1.43
+Survival in pancreatic cancer	rs361052	1.44
+Survival in pancreatic cancer	rs3795244	2.46
+Survival in pancreatic cancer	rs4150579	1.34
+Survival in pancreatic cancer	rs4285214	1.65
+Survival in pancreatic cancer	rs4382459	1.56
+Survival in pancreatic cancer	rs4757645	1.42
+Survival in pancreatic cancer	rs6662005	1.71
+Survival in pancreatic cancer	rs7076689	2.54
+Survival in pancreatic cancer	rs7202041	1.57
+Survival in pancreatic cancer	rs7330800	1.38
+Survival in pancreatic cancer	rs763780	3.3
+Survival in pancreatic cancer	rs770996	1.31
+Survival in pancreatic cancer	rs7853844	1.44
+Survival in pancreatic cancer	rs823918	1.44
+Survival in pancreatic cancer	rs823920	1.43
+Survival in pancreatic cancer	rs9517906	1.3333333
+Survival in pancreatic cancer	rs9539806	1.32
+Survival in pancreatic cancer	rs9593831	1.55
+Survival in pancreatic cancer	rs981621	1.39
+Survival in pancreatic cancer	rs9874556	1.31
+Ovarian clear cell cancer	rs7405776	1.25
+Ovarian clear cell cancer	rs11651755	1.27
+Endometrioid ovarian cancer	rs555025179	1.18
+Low-grade serous ovarian cancer	rs150293538	3.0
+Ovarian cancer in BRCA2 mutation carriers	rs62274041	1.85
+Ovarian cancer in BRCA2 mutation carriers	rs10962692	1.5
+Ovarian cancer in BRCA1 mutation carriers	rs62274041	1.4226197
+Ovarian cancer in BRCA1 mutation carriers	rs10962692	1.3346913
+Ovarian cancer in BRCA1 mutation carriers	rs1879586	1.1804551
+Epithelial ovarian cancer	rs9870207	1.0994674
+Epithelial ovarian cancer	rs7705526	1.0766991
+Epithelial ovarian cancer	rs6456822	1.0714362
+Epithelial ovarian cancer	chr8:82668818	1.1702297
+Epithelial ovarian cancer	rs1400482	1.232938
+Epithelial ovarian cancer	rs10962692	1.3368285
+Epithelial ovarian cancer	chr9:136138765	1.11572
+Epithelial ovarian cancer	rs144962376	1.0959264
+Epithelial ovarian cancer	rs7405776	1.09
+Epithelial ovarian cancer	rs11651755	1.077992
+Epithelial ovarian cancer	rs1879586	1.1611373
+Epithelial ovarian cancer	rs7207826	1.1311107
+Epithelial ovarian cancer	rs4808075	1.1357577
+Serous invasive ovarian cancer	rs58722170	1.099984
+Serous invasive ovarian cancer	rs711830	1.1312215
+Serous invasive ovarian cancer	rs6755777	1.1323612
+Serous invasive ovarian cancer	rs62274041	1.5885553
+Serous invasive ovarian cancer	rs10069690	1.1303236
+Serous invasive ovarian cancer	rs7705526	1.1067635
+Serous invasive ovarian cancer	chr8:82668818	1.1915798
+Serous invasive ovarian cancer	rs1400482	1.2746594
+Serous invasive ovarian cancer	rs10962692	1.3252935
+Serous invasive ovarian cancer	chr9:136138765	1.1340009
+Serous invasive ovarian cancer	rs144962376	1.0992962
+Serous invasive ovarian cancer	rs8037137	1.1235955
+Serous invasive ovarian cancer	rs7405776	1.1048253
+Serous invasive ovarian cancer	rs11651755	1.0903314
+Serous invasive ovarian cancer	rs1879586	1.1472089
+Serous invasive ovarian cancer	rs7207826	1.13894
+Serous invasive ovarian cancer	rs4808075	1.1823713
+Serous invasive ovarian cancer	rs6005807	1.1651025
+Serous invasive ovarian cancer	rs2165109	1.0926361
+Serous invasive ovarian cancer	rs9886651	1.0710524
+Serous invasive ovarian cancer	rs7953249	1.0817573
+Serous borderline ovarian cancer	rs711830	1.1790794
+Serous borderline ovarian cancer	rs6755777	1.1861752
+Serous borderline ovarian cancer	rs13113999	1.2250321
+Serous borderline ovarian cancer	rs10069690	1.2546542
+Serous borderline ovarian cancer	rs7705526	1.3829999
+Serous borderline ovarian cancer	rs1400482	1.4812524
+Serous borderline ovarian cancer	rs7902587	1.3209459
+Serous borderline ovarian cancer	rs11651755	1.1726217
+Serous borderline ovarian cancer	rs7207826	1.1832383
+Serous borderline ovarian cancer	rs8098244	1.1853783
+High-grade serous ovarian cancer	rs58722170	1.1063784
+High-grade serous ovarian cancer	rs711830	1.1268522
+High-grade serous ovarian cancer	rs6755777	1.1282876
+High-grade serous ovarian cancer	rs62274041	1.630706
+High-grade serous ovarian cancer	rs10069690	1.1310111
+High-grade serous ovarian cancer	rs7705526	1.099452
+High-grade serous ovarian cancer	chr8:82668818	1.2026194
+High-grade serous ovarian cancer	rs1400482	1.2638669
+High-grade serous ovarian cancer	rs10962692	1.358497
+High-grade serous ovarian cancer	rs4742903	1.0740868
+High-grade serous ovarian cancer	chr9:136138765	1.146201
+High-grade serous ovarian cancer	rs144962376	1.09834
+High-grade serous ovarian cancer	rs8037137	1.1363636
+High-grade serous ovarian cancer	rs7405776	1.1008928
+High-grade serous ovarian cancer	rs11651755	1.0924964
+High-grade serous ovarian cancer	rs7207826	1.1383171
+High-grade serous ovarian cancer	rs4808075	1.1971419
+High-grade serous ovarian cancer	rs2165109	1.0954511
+High-grade serous ovarian cancer	rs7953249	1.0811644
+High-grade serous ovarian cancer	rs1879586	1.1585579
+High-grade serous ovarian cancer	rs6005807	1.1650093
+Invasive epithelial ovarian cancer	rs711830	1.1120843
+Invasive epithelial ovarian cancer	rs6755777	1.1121821
+Invasive epithelial ovarian cancer	rs62274041	1.4494933
+Invasive epithelial ovarian cancer	rs17329882	1.07509
+Invasive epithelial ovarian cancer	rs10069690	1.0865872
+Invasive epithelial ovarian cancer	rs7705526	1.0913801
+Invasive epithelial ovarian cancer	chr8:82668818	1.1555611
+Invasive epithelial ovarian cancer	rs1400482	1.1769707
+Invasive epithelial ovarian cancer	rs10962692	1.2424945
+Invasive epithelial ovarian cancer	chr9:136138765	1.1083262
+Invasive epithelial ovarian cancer	rs144962376	1.0908245
+Invasive epithelial ovarian cancer	rs8037137	1.098901
+Invasive epithelial ovarian cancer	rs143663961	1.0819896
+Invasive epithelial ovarian cancer	rs1879586	1.1339011
+Invasive epithelial ovarian cancer	rs7207826	1.1105318
+Invasive epithelial ovarian cancer	rs4808075	1.1302502
+Invasive epithelial ovarian cancer	rs6005807	1.1211612
+Invasive epithelial ovarian cancer	rs2165109	1.0780069
+Invasive epithelial ovarian cancer	rs7953249	1.0621586
+Epithelial ovarian cancer	rs62274041	1.57
+Epithelial ovarian cancer	rs6755777	1.12
+Epithelial ovarian cancer	rs711830	1.12
+Epithelial ovarian cancer	rs58722170	1.1
+Epithelial ovarian cancer	rs8098244	1.11
+Epithelial ovarian cancer	rs6005807	1.1
+Low-grade serous and serous borderline ovarian cancer	rs711830	1.1855859
+Low-grade serous and serous borderline ovarian cancer	rs6755777	1.1783675
+Low-grade serous and serous borderline ovarian cancer	rs9870207	1.1929355
+Low-grade serous and serous borderline ovarian cancer	rs10069690	1.2150546
+Low-grade serous and serous borderline ovarian cancer	rs7705526	1.3236618
+Low-grade serous and serous borderline ovarian cancer	rs1400482	1.465133
+Low-grade serous and serous borderline ovarian cancer	rs7902587	1.2930167
+Low-grade serous and serous borderline ovarian cancer	rs7405776	1.1517414
+Low-grade serous and serous borderline ovarian cancer	rs7207826	1.1787505
+Low-grade serous and serous borderline ovarian cancer	rs8098244	1.1902364
+Low-grade serous and serous borderline ovarian cancer	rs150293538	2.1880746
+Low-grade serous and serous borderline ovarian cancer	rs11651755	1.1389422
+Lung cancer	rs78062588	1.1326951
+Lung cancer	rs77045810	1.1030006
+Lung cancer	rs71658797	1.1362852
+Lung cancer	rs71641308	1.1390132
+Lung cancer	rs35535570	1.136056
+Lung cancer	rs34517439	1.1355314
+Lung cancer	rs17391694	1.1121461
+Lung cancer	rs71641333	1.1440215
+Lung cancer	rs34443463	1.0657755
+Lung cancer	rs12081674	1.0733533
+Lung cancer	rs1991625	1.0594825
+Lung cancer	rs722864	1.0751604
+Lung cancer	rs72899227	1.0766385
+Lung cancer	rs2119148	1.0550008
+Lung cancer	rs55902839	1.0581545
+Lung cancer	rs72949976	1.057067
+Lung cancer	rs111308888	1.1643438
+Lung cancer	rs11902506	1.0599538
+Lung cancer	rs2289393	1.064274
+Lung cancer	rs79368540	1.0928439
+Lung cancer	rs1039766	1.0803672
+Lung cancer	rs11692700	1.1985873
+Lung cancer	rs55864010	1.1116452
+Lung cancer	rs151124926	1.3037766
+Lung cancer	rs114624737	1.5175089
+Lung cancer	rs76486688	1.25974
+Lung cancer	rs9869622	1.0753014
+Lung cancer	rs13080835	1.0584221
+Lung cancer	rs113659074	1.112315
+Lung cancer	rs11941078	1.1084317
+Lung cancer	rs1479090	1.0680943
+Lung cancer	rs185666783	1.0813257
+Lung cancer	rs7683574	1.060866
+Lung cancer	rs78154696	1.2176539
+Lung cancer	rs12517665	1.0714158
+Lung cancer	rs380286	1.1517557
+Lung cancer	rs34357052	1.0624987
+Lung cancer	rs10479542	1.0570045
+Lung cancer	rs35452836	1.0622944
+Lung cancer	rs72951719	1.1387022
+Lung cancer	rs6920364	1.0700544
+Lung cancer	rs17615336	1.0548303
+Lung cancer	rs35789010	1.1343168
+Lung cancer	rs28412066	1.1250569
+Lung cancer	rs13191445	1.1496384
+Lung cancer	rs3999544	1.0787952
+Lung cancer	rs41266839	1.1371641
+Lung cancer	rs66488313	1.1313485
+Lung cancer	rs34244947	1.137643
+Lung cancer	rs80264589	1.129989
+Lung cancer	rs35768595	1.1351829
+Lung cancer	rs149866169	1.1461717
+Lung cancer	rs13217620	1.1495541
+Lung cancer	rs35037868	1.1462637
+Lung cancer	rs13199649	1.1453075
+Lung cancer	rs35952432	1.1477143
+Lung cancer	rs34661125	1.1597158
+Lung cancer	rs13201681	1.1571598
+Lung cancer	rs116461399	1.1547382
+Lung cancer	rs148696809	1.1571189
+Lung cancer	rs116826541	1.1556115
+Lung cancer	rs139244745	1.1562266
+Lung cancer	rs115870917	1.1979941
+Lung cancer	rs147680653	1.2189428
+Lung cancer	rs116480994	1.1897327
+Lung cancer	rs116418332	1.1875865
+Lung cancer	rs114601353	1.1865841
+Lung cancer	rs142618987	1.1810062
+Lung cancer	rs116295105	1.1802878
+Lung cancer	rs116551911	1.1789801
+Lung cancer	rs115666025	1.1694008
+Lung cancer	rs3094222	1.1642892
+Lung cancer	rs116718137	1.1665717
+Lung cancer	rs116822326	1.150182
+Lung cancer	rs139789464	1.1843246
+Lung cancer	rs3131378	1.1810031
+Lung cancer	rs501942	1.1851386
+Lung cancer	rs144433536	1.1827334
+Lung cancer	rs147151648	1.1852659
+Lung cancer	rs115613607	1.1788805
+Lung cancer	rs74942078	1.1690893
+Lung cancer	rs114828403	1.1479195
+Lung cancer	rs116298963	1.1194751
+Lung cancer	rs116718336	1.1921477
+Lung cancer	rs114393147	1.148247
+Lung cancer	rs114984535	1.2639532
+Lung cancer	rs210191	1.237917
+Lung cancer	rs117497853	1.1929358
+Lung cancer	rs117534741	1.2351797
+Lung cancer	rs10265693	1.0986036
+Lung cancer	rs4722166	1.0574074
+Lung cancer	rs148791337	1.3277904
+Lung cancer	rs7805022	1.0614822
+Lung cancer	rs17775239	1.0655429
+Lung cancer	rs2404618	1.0544931
+Lung cancer	rs76694908	1.1358638
+Lung cancer	rs11780471	1.1515831
+Lung cancer	rs7820838	1.0673686
+Lung cancer	rs6989042	1.0758488
+Lung cancer	rs188586526	1.3087933
+Lung cancer	rs191205566	1.4017447
+Lung cancer	rs10984970	1.1137654
+Lung cancer	rs140701862	1.0960294
+Lung cancer	rs10811609	1.0990928
+Lung cancer	rs7026112	1.077864
+Lung cancer	rs62560775	1.1056006
+Lung cancer	rs62621207	1.1592233
+Lung cancer	rs7902587	1.0910419
+Lung cancer	rs10904377	1.1438692
+Lung cancer	rs78334599	1.1687047
+Lung cancer	rs1629083	1.0693134
+Lung cancer	rs11032090	1.0693008
+Lung cancer	rs78853063	1.1254505
+Lung cancer	rs215335	1.0564134
+Lung cancer	rs3847711	1.095207
+Lung cancer	rs7953330	1.0911875
+Lung cancer	rs56404467	1.260481
+Lung cancer	rs185038874	1.4931829
+Lung cancer	rs56377826	1.0730215
+Lung cancer	rs35028925	1.0604849
+Lung cancer	rs2412819	1.0664301
+Lung cancer	rs66759488	1.0702693
+Lung cancer	rs77468143	1.0861762
+Lung cancer	rs7169304	1.0655863
+Lung cancer	rs12904211	1.0599552
+Lung cancer	rs79149102	1.1790844
+Lung cancer	rs11639372	1.1972085
+Lung cancer	rs4886591	1.1673486
+Lung cancer	rs28408315	1.0961882
+Lung cancer	rs17181550	1.0639783
+Lung cancer	rs631644	1.0671345
+Lung cancer	rs66500423	1.0678405
+Lung cancer	rs56113850	1.1306498
+Lung cancer in ever smokers	rs7534220	1.1280495
+Differentiated thyroid cancer	rs6996585	1.39
+Differentiated thyroid cancer	rs12990503	1.34
+Differentiated thyroid cancer	rs11175834	1.37
+Differentiated thyroid cancer	rs4915076	1.33
+Differentiated thyroid cancer	rs4649295	1.43
+Differentiated thyroid cancer	rs34081947	1.27
+Differentiated thyroid cancer	rs1874564	1.31
+Differentiated thyroid cancer	rs9858271	1.26
+Differentiated thyroid cancer	rs72753537	1.41
+Papillary thyroid cancer	rs6996585	1.43
+Papillary thyroid cancer	rs12990503	1.38
+Papillary thyroid cancer	rs11175834	1.36
+Papillary thyroid cancer	rs4915076	1.34
+Papillary thyroid cancer	rs4649295	1.45
+Papillary thyroid cancer	rs34081947	1.25
+Papillary thyroid cancer	rs1874564	1.31
+Papillary thyroid cancer	rs9858271	1.3
+Papillary thyroid cancer	rs72753537	1.48
+Lung cancer in ever smokers	rs116480793	1.2884976
+Lung cancer in ever smokers	rs114864108	1.3381778
+Lung cancer in ever smokers	rs144503462	1.6769611
+Lung cancer in ever smokers	rs10436951	1.6081543
+Lung cancer in ever smokers	rs117105675	1.5711766
+Lung cancer in ever smokers	rs71658797	1.145921
+Lung cancer in ever smokers	rs34517439	1.1473451
+Lung cancer in ever smokers	rs17391694	1.1221
+Lung cancer in ever smokers	rs6700362	1.0824698
+Lung cancer in ever smokers	rs17697383	1.236974
+Lung cancer in ever smokers	rs1866631	1.0744331
+Lung cancer in ever smokers	rs55902839	1.0806478
+Lung cancer in ever smokers	rs62140840	1.1187994
+Lung cancer in ever smokers	rs6710503	1.08137
+Lung cancer in ever smokers	rs191932161	1.3283206
+Lung cancer in ever smokers	rs79294676	1.5717803
+Lung cancer in ever smokers	rs116165775	1.559825
+Lung cancer in ever smokers	rs76980472	1.3714582
+Lung cancer in ever smokers	rs151124926	1.3753732
+Lung cancer in ever smokers	rs150954074	1.313554
+Lung cancer in ever smokers	rs7428320	1.0849946
+Lung cancer in ever smokers	rs1880828	1.1144239
+Lung cancer in ever smokers	rs10016781	1.1073242
+Lung cancer in ever smokers	rs12108538	1.1674694
+Lung cancer in ever smokers	rs79398649	1.2955143
+Lung cancer in ever smokers	rs421629	1.134976
+Lung cancer in ever smokers	rs4406174	1.1150825
+Lung cancer in ever smokers	rs3810859	1.0810798
+Lung cancer in ever smokers	rs13205254	1.141066
+Lung cancer in ever smokers	rs11751666	1.39231
+Lung cancer in ever smokers	rs62402518	1.1517986
+Lung cancer in ever smokers	rs35789010	1.1598864
+Lung cancer in ever smokers	rs13191296	1.1728821
+Lung cancer in ever smokers	rs13191445	1.1738136
+Lung cancer in ever smokers	rs36109883	1.1676731
+Lung cancer in ever smokers	rs34158769	1.1614014
+Lung cancer in ever smokers	rs3734542	1.1447185
+Lung cancer in ever smokers	rs36162392	1.1410072
+Lung cancer in ever smokers	rs34244947	1.158347
+Lung cancer in ever smokers	rs34816374	1.1463856
+Lung cancer in ever smokers	rs35768595	1.1596087
+Lung cancer in ever smokers	rs13212562	1.1549425
+Lung cancer in ever smokers	rs149866169	1.1601964
+Lung cancer in ever smokers	rs13217620	1.1669619
+Lung cancer in ever smokers	rs13218875	1.16643
+Lung cancer in ever smokers	rs34662244	1.1755702
+Lung cancer in ever smokers	rs67340775	1.1820452
+Lung cancer in ever smokers	rs67381177	1.1776505
+Lung cancer in ever smokers	rs114385935	1.1696258
+Lung cancer in ever smokers	rs116668069	1.1370234
+Lung cancer in ever smokers	rs116381494	1.1677012
+Lung cancer in ever smokers	rs115287935	1.1647499
+Lung cancer in ever smokers	rs116442863	1.1634282
+Lung cancer in ever smokers	rs139244745	1.162069
+Lung cancer in ever smokers	rs138488080	1.164588
+Lung cancer in ever smokers	rs115729734	1.164619
+Lung cancer in ever smokers	rs116418332	1.2073652
+Lung cancer in ever smokers	rs115707823	1.1930656
+Lung cancer in ever smokers	rs116260619	1.2033279
+Lung cancer in ever smokers	rs116551911	1.2025579
+Lung cancer in ever smokers	rs2233956	1.1730286
+Lung cancer in ever smokers	rs2596500	1.2094321
+Lung cancer in ever smokers	rs114002231	1.2080983
+Lung cancer in ever smokers	rs139789464	1.2005847
+Lung cancer in ever smokers	rs501942	1.2034894
+Lung cancer in ever smokers	rs144433536	1.2000709
+Lung cancer in ever smokers	rs147151648	1.1864156
+Lung cancer in ever smokers	rs115100928	1.1861855
+Lung cancer in ever smokers	rs115819854	1.1869539
+Lung cancer in ever smokers	rs7383287	1.1205634
+Lung cancer in ever smokers	rs115447191	1.1040647
+Lung cancer in ever smokers	rs114738294	1.0804458
+Lung cancer in ever smokers	rs62389424	1.1453886
+Lung cancer in ever smokers	rs118087489	1.1442357
+Lung cancer in ever smokers	rs146204659	1.2591786
+Lung cancer in ever smokers	rs3944100	1.0820277
+Lung cancer in ever smokers	rs2877187	1.082824
+Lung cancer in ever smokers	rs56212584	1.1518074
+Lung cancer in ever smokers	rs139328189	1.619335
+Lung cancer in ever smokers	rs144706282	1.4321419
+Lung cancer in ever smokers	rs3816788	1.0732349
+Lung cancer in ever smokers	rs2741348	1.0817294
+Lung cancer in ever smokers	rs188586526	1.4032447
+Lung cancer in ever smokers	rs142328647	1.2979821
+Lung cancer in ever smokers	rs12234934	1.1144483
+Lung cancer in ever smokers	rs35440884	1.1096019
+Lung cancer in ever smokers	rs148802107	1.3019569
+Lung cancer in ever smokers	rs2918130	1.120273
+Lung cancer in ever smokers	rs61677309	1.0839134
+Lung cancer in ever smokers	rs4755351	1.0984026
+Lung cancer in ever smokers	rs2072113	1.1081095
+Lung cancer in ever smokers	rs4619206	1.1038703
+Lung cancer in ever smokers	rs116901460	1.4525692
+Lung cancer in ever smokers	rs11571833	1.4946846
+Lung cancer in ever smokers	rs2439831	1.1158895
+Lung cancer in ever smokers	15:43897499	1.1196936
+Lung cancer in ever smokers	rs79040073	1.0951287
+Lung cancer in ever smokers	rs7169304	1.0758595
+Lung cancer in ever smokers	rs12439944	1.2104888
+Lung cancer in ever smokers	rs62027346	1.1691946
+Lung cancer in ever smokers	rs55781567	1.3320138
+Lung cancer in ever smokers	rs11639372	1.2087405
+Lung cancer in ever smokers	rs4886591	1.1780756
+Lung cancer in ever smokers	rs28408315	1.0970801
+Lung cancer in ever smokers	rs17791430	1.081127
+Lung cancer in ever smokers	rs28510890	1.0823249
+Lung cancer in ever smokers	rs140040369	1.4697365
+Lung cancer in ever smokers	rs7227917	1.1139429
+Lung cancer in ever smokers	rs56113850	1.1372905
+Lung cancer in ever smokers	rs72981884	1.3132664
+Lung cancer in never smokers	rs10113175	1.5820769
+Lung cancer in never smokers	rs7299138	1.2594087
+Lung cancer in never smokers	rs17007554	1.2231709
+Lung cancer in never smokers	rs4455778	1.1842692
+Lung cancer in never smokers	rs7979031	1.205228
+Lung cancer in never smokers	rs2187172	1.2159665
+Lung cancer in never smokers	rs10755723	1.2163181
+Lung cancer in never smokers	rs11514963	1.3071538
+Lung cancer in never smokers	rs12336169	1.3087158
+Lung cancer in never smokers	rs7962738	1.4109263
+Lung cancer in never smokers	rs12165127	1.4677519
+Lung cancer in never smokers	rs60280813	1.5677797
+Lung cancer in never smokers	rs75077515	1.5755453
+Lung cancer in never smokers	rs366403	1.6124116
+Lung cancer in never smokers	rs34763909	1.613073
+Lung cancer in never smokers	rs79793963	1.6318891
+Lung cancer in never smokers	rs11769862	1.7594036
+Lung cancer in never smokers	rs117413473	1.847798
+Lung cancer in never smokers	rs29999	1.8959502
+Lung cancer in never smokers	rs74635764	2.1312459
+Lung cancer in never smokers	rs7705526	1.2275395
+Lung cancer in never smokers	rs17382996	1.5072039
+Lung cancer in never smokers	rs117049781	1.6999506
+Differentiated thyroid cancer	rs4244255	5.374922158904067
+Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer	rs55756123	6.11
+Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer	rs10117876	7.79
+Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer	rs4305714	1.87
+Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer	rs707557	1.46
+Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer	rs77679196	7.0
+Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer	rs7698718	1.78
+Colorectal cancer	rs7912831	1.27
+Cervical cancer	rs3132461	1.358
+Cervical cancer	rs4396968	1.26
+Cervical cancer	rs2267681	1.1806375
+Cervical cancer	rs56804039	1.2091899
+Cervical cancer	rs4738017	1.174
+Cervical cancer	rs9532669	1.216
+Cervical cancer	rs11637339	1.184
+Cervical cancer	rs17087933	1.2787724
+Cervical cancer	rs2239704	1.23
+Cervical cancer	HLA-DQB1*602	1.44
+Cervical cancer	HLA-DQA1*0301	7.344789086221368
+Cervical cancer	HLA-B*15	0.64
+Cervical cancer	HAL-DRB1*13	0.69
+Colorectal cancer	rs992157	1.12
+Colorectal cancer	rs6589219	1.12
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs295315	1.82
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs17693104	1.65
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs868767	2.12
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs2050203	1.78
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs11621975	2.31
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs17548007	1.86
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs202280	2.0
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs1564271	1.62
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs10899426	2.29
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	rs4618572	1.86
+Progression free survival in serous epithelial ovarian cancer treated with carboplatin and paclitaxel	rs10899426	2.74
+Progression free survival in serous epithelial ovarian cancer treated with carboplatin and paclitaxel	rs6256	1.93
+Progression free survival in serous epithelial ovarian cancer treated with carboplatin and paclitaxel	rs10832063	1.8
+Progression free survival in serous epithelial ovarian cancer treated with carboplatin and paclitaxel	rs10500780	1.79
+Breast cancer	chr17:29230520	1.0752687
+Breast cancer	rs2363956	1.03
+Breast cancer	rs1357245	1.06
+Prostate cancer	rs75823044	1.55
+Prostate cancer	rs78554043	1.62
+Breast cancer	rs45631563	1.2345679
+Breast cancer	rs34005590	1.2195122
+Breast cancer	rs4442975	1.1235955
+Breast cancer	rs10995201	1.1111112
+Breast cancer	rs676256	1.098901
+Breast cancer	rs3215401	1.0752687
+Breast cancer	rs2787486	1.0752687
+Breast cancer	rs2747652	1.0638298
+Breast cancer	rs146699004	1.0309278
+Breast cancer	rs67397200	1.03
+Breast cancer	rs11977670	1.06
+Breast cancer	rs13294895	1.06
+Breast cancer	rs1830298	1.06
+Breast cancer	rs3757322	1.08
+Breast cancer	rs10816625	1.11
+Breast cancer	rs62355902	1.18
+Breast cancer	rs35054928	1.27
+Breast cancer	chr22:39359355	1.1
+Breast cancer	rs9397437	1.17
+Breast cancer	rs17879961	1.26
+Breast cancer	rs117618124	1.1235955
+Breast cancer	rs71557345	1.0869565
+Breast cancer	rs79724016	1.0752687
+Breast cancer	rs72749841	1.0752687
+Breast cancer	rs12546444	1.0752687
+Breast cancer	rs71559437	1.0752687
+Breast cancer	rs13066793	1.0638298
+Breast cancer	rs6569648	1.0638298
+Breast cancer	rs6596100	1.0638298
+Breast cancer	rs1895062	1.0638298
+Breast cancer	rs77528541	1.0526316
+Breast cancer	rs2532263	1.0526316
+Breast cancer	rs738321	1.0526316
+Breast cancer	rs11117758	1.0526316
+Breast cancer	rs35951924	1.0526316
+Breast cancer	rs202049448	1.0526316
+Breast cancer	rs3819405	1.0416667
+Breast cancer	rs12479355	1.0416667
+Breast cancer	rs6725517	1.0416667
+Breast cancer	rs6597981	1.0416667
+Breast cancer	rs4496150	1.0416667
+Breast cancer	rs7971	1.0416667
+Breast cancer	rs140850326	1.0309278
+Breast cancer	rs2594714	1.0309278
+Breast cancer	rs12207986	1.0309278
+Breast cancer	rs4233486	1.0309278
+Breast cancer	rs2432539	1.03
+Breast cancer	rs10760444	1.03
+Breast cancer	4:84370124	1.04
+Breast cancer	rs2223621	1.04
+Breast cancer	rs2965183	1.04
+Breast cancer	rs10623258	1.04
+Breast cancer	rs10022462	1.04
+Breast cancer	rs140936696	1.04
+Breast cancer	rs4562056	1.05
+Breast cancer	rs206966	1.05
+Breast cancer	rs71338792	1.05
+Breast cancer	rs28539243	1.05
+Breast cancer	rs17426269	1.05
+Breast cancer	rs514192	1.05
+Breast cancer	rs28512361	1.05
+Breast cancer	rs4971059	1.05
+Breast cancer	rs17268829	1.05
+Breast cancer	rs6122906	1.05
+Breast cancer	rs17156577	1.05
+Breast cancer	rs2992756	1.06
+Breast cancer	rs34207738	1.06
+Breast cancer	rs58058861	1.06
+Breast cancer	rs6815814	1.06
+Breast cancer	rs7529522	1.06
+Breast cancer	rs9833888	1.06
+Breast cancer	rs116095464	1.06
+Breast cancer	rs73161324	1.06
+Breast cancer	rs113577745	1.08
+Breast cancer	rs71801447	1.09
+Breast cancer	rs67958007	1.09
+Breast cancer	rs16991615	1.1
+Breast cancer	rs35383942	1.12
+Breast cancer	rs72826962	1.2
+Breast cancer	rs1707302	1.0416667
+Breast cancer	rs6882649	1.0309278
+Breast cancer	rs6805189	1.0309278
+Breast cancer	rs8176636	1.03
+Breast cancer	rs58847541	1.08
+Breast cancer	rs78269692	1.09
+Breast cancer	chr1:104145286	0.0582
+Breast cancer	chr1:168545508	0.0526
+Breast cancer	chr1:21023194	0.2414
+Breast cancer	chr1:45833328	0.0407
+Breast cancer	chr10:51462991	0.0937
+Breast cancer	chr11:111742493	0.0353
+Breast cancer	chr11:18403271	0.0336
+Breast cancer	chr11:65601650	0.0458
+Breast cancer	chr11:9686139	0.3415
+Breast cancer	chr12:103097070	0.0459
+Breast cancer	chr12:111600134	0.0351
+Breast cancer	chr12:111720125	0.0318
+Breast cancer	chr12:111826477	0.0345
+Breast cancer	chr12:112007756	0.0311
+Breast cancer	chr12:112200150	0.0282
+Breast cancer	chr12:112610714	0.0299
+Breast cancer	chr12:112840766	0.0297
+Breast cancer	chr12:115108361	0.0432
+Breast cancer	chr12:115558575	0.0296
+Breast cancer	chr12:115835798	0.0824
+Breast cancer	chr12:115990594	0.0303
+Breast cancer	chr12:116347863	0.0334
+Breast cancer	chr12:120832146	0.0487
+Breast cancer	chr12:14413931	0.0552
+Breast cancer	chr12:28347382	0.0687
+Breast cancer	chr12:28452497	0.0564
+Breast cancer	chr12:28569325	0.0532
+Breast cancer	chr12:28672110	0.0511
+Breast cancer	chr12:28775813	0.1157
+Breast cancer	chr12:28928139	0.1404
+Breast cancer	chr12:29140260	0.0713
+Breast cancer	chr12:29247350	0.0674
+Breast cancer	chr12:29489004	0.0725
+Breast cancer	chr12:31952412	0.0329
+Breast cancer	chr12:57282235	0.2341
+Breast cancer	chr12:57484602	0.1913
+Breast cancer	chr12:57602279	0.1557
+Breast cancer	chr12:57848639	0.0291
+Breast cancer	chr12:59581708	0.161
+Breast cancer	chr12:69124241	0.0358
+Breast cancer	chr12:78820565	0.4799
+Breast cancer	chr12:83063443	0.0551
+Breast cancer	chr12:85009437	0.0387
+Breast cancer	chr12:96027759	0.0898
+Breast cancer	chr12:96141866	0.0438
+Breast cancer	chr13:32866927	0.2691
+Breast cancer	chr14:35412105	0.0325
+Breast cancer	chr14:68118802	0.1317
+Breast cancer	chr14:93112310	0.0598
+Breast cancer	chr15:86218049	0.0333
+Breast cancer	chr16:53908992	0.0523
+Breast cancer	chr17:43658516	0.0587
+Breast cancer	chr17:44252468	0.0605
+Breast cancer	chr17:44759766	0.0562
+Breast cancer	chr18:42517419	0.0557
+Breast cancer	chr2:6178372	0.1885
+Breast cancer	chr4:106507402	0.07
+Breast cancer	chr4:187503860	0.0312
+Breast cancer	chr4:84370124	0.0384
+Breast cancer	chr5:43263364	0.2075
+Breast cancer	chr5:49484480	0.0664
+Breast cancer	chr5:52482315	0.1168
+Breast cancer	chr5:58365353	0.0718
+Breast cancer	chr5:58680596	0.1061
+Breast cancer	chr6:151715281	0.0367
+Breast cancer	chr6:28709151	0.0649
+Breast cancer	chr6:32677587	0.1523
+Breast cancer	chr9:136151579	0.0446
+Breast cancer	chrX:118630622	0.2721
+Breast cancer	rs10016947	0.0611
+Breast cancer	rs10051199	0.0293
+Breast cancer	rs10096351	0.1055
+Breast cancer	rs10103490	0.0319
+Breast cancer	rs10169133	0.0364
+Breast cancer	rs10269006	0.0335
+Breast cancer	rs10510097	0.1546
+Breast cancer	rs10629804	0.0345
+Breast cancer	rs10644111	0.0424
+Breast cancer	rs10683143	0.0319
+Breast cancer	rs10695717	0.0315
+Breast cancer	rs10796944	0.0457
+Breast cancer	rs10811650	0.0461
+Breast cancer	rs10832963	0.0331
+Breast cancer	rs10883710	0.0291
+Breast cancer	rs10885405	0.0465
+Breast cancer	rs10906522	0.0332
+Breast cancer	rs10923574	0.0344
+Breast cancer	rs10975370	0.0356
+Breast cancer	rs11039183	0.0301
+Breast cancer	rs1112956	0.0328
+Breast cancer	rs111307654	0.0497
+Breast cancer	rs111342015	0.0571
+Breast cancer	rs11135046	0.0717
+Breast cancer	rs11146838	0.0312
+Breast cancer	rs111549985	0.0498
+Breast cancer	rs111605422	0.0936
+Breast cancer	rs111730030	0.0837
+Breast cancer	rs111780165	0.067
+Breast cancer	rs11205303	0.0497
+Breast cancer	rs112056657	0.1986
+Breast cancer	rs112257290	0.07
+Breast cancer	rs112332509	0.0335
+Breast cancer	rs11264454	0.0327
+Breast cancer	rs11284646	0.032
+Breast cancer	rs11288072	0.0501
+Breast cancer	rs11290052	0.0323
+Breast cancer	rs11298677	0.0373
+Breast cancer	rs113084984	0.0367
+Breast cancer	rs113167076	0.1213
+Breast cancer	rs113289039	0.0366
+Breast cancer	rs1133071	0.0335
+Breast cancer	rs113319441	0.0908
+Breast cancer	rs113410521	0.0603
+Breast cancer	rs11344495	0.0327
+Breast cancer	rs11354714	0.0318
+Breast cancer	rs113687142	0.1493
+Breast cancer	rs113780580	0.0786
+Breast cancer	rs11383827	0.0372
+Breast cancer	rs113855064	0.1877
+Breast cancer	rs113953597	0.0446
+Breast cancer	rs11406084	0.0378
+Breast cancer	rs11410354	0.039
+Breast cancer	rs11462858	0.0471
+Breast cancer	rs1154723	0.0681
+Breast cancer	rs11583393	0.0396
+Breast cancer	rs116183959	0.0439
+Breast cancer	rs11624333	0.0968
+Breast cancer	rs116464256	0.0855
+Breast cancer	rs11646723	0.0718
+Breast cancer	rs116478824	0.0675
+Breast cancer	rs11652463	0.04
+Breast cancer	rs11655740	0.0906
+Breast cancer	rs11680449	0.0404
+Breast cancer	rs11684853	0.0442
+Breast cancer	rs11690035	0.0534
+Breast cancer	rs11693806	0.0739
+Breast cancer	rs11700530	0.0323
+Breast cancer	rs117078955	0.1235
+Breast cancer	rs1172821	0.0297
+Breast cancer	rs117512673	0.1749
+Breast cancer	rs117649165	0.1396
+Breast cancer	rs117698693	0.117
+Breast cancer	rs117758012	0.0718
+Breast cancer	rs11779988	0.0302
+Breast cancer	rs117911427	0.1046
+Breast cancer	rs11822830	0.0483
+Breast cancer	rs11960470	0.0308
+Breast cancer	rs1200921	0.0289
+Breast cancer	rs12077974	0.0364
+Breast cancer	rs12091730	0.0464
+Breast cancer	rs12095761	0.037
+Breast cancer	rs12110303	0.0606
+Breast cancer	rs12134245	0.0288
+Breast cancer	rs12152414	0.083
+Breast cancer	rs12189522	0.1158
+Breast cancer	rs12250948	0.0576
+Breast cancer	rs1230666	0.0592
+Breast cancer	rs1233480	0.0586
+Breast cancer	rs12458099	0.0443
+Breast cancer	rs12474538	0.0469
+Breast cancer	rs12481286	0.0407
+Breast cancer	rs12483853	0.0783
+Breast cancer	rs12506630	0.0323
+Breast cancer	rs12519859	0.0365
+Breast cancer	rs12682248	0.0347
+Breast cancer	rs1268974	0.0793
+Breast cancer	rs12718945	0.0289
+Breast cancer	rs12765365	0.0979
+Breast cancer	rs12904134	0.0286
+Breast cancer	rs12918713	0.0688
+Breast cancer	rs12920416	0.0412
+Breast cancer	rs1293906	0.0408
+Breast cancer	rs12962334	0.0324
+Breast cancer	rs13008686	0.0302
+Breast cancer	rs13054095	0.1792
+Breast cancer	rs13079292	0.1064
+Breast cancer	rs13160295	0.1121
+Breast cancer	rs13183434	0.0777
+Breast cancer	rs13186320	0.0483
+Breast cancer	rs13195401	0.0718
+Breast cancer	rs13198474	0.0673
+Breast cancer	rs13214023	0.071
+Breast cancer	rs132289	0.2482
+Breast cancer	rs13230714	0.0338
+Breast cancer	rs13256025	0.0428
+Breast cancer	rs13277568	0.0327
+Breast cancer	rs13416342	0.0285
+Breast cancer	rs1375631	0.0321
+Breast cancer	rs138024639	0.0699
+Breast cancer	rs138060088	0.0878
+Breast cancer	rs138672638	0.1833
+Breast cancer	rs139059349	0.1465
+Breast cancer	rs139424826	0.0657
+Breast cancer	rs139530473	0.0481
+Breast cancer	rs139824696	0.0448
+Breast cancer	rs140035696	0.1271
+Breast cancer	rs140091	0.1736
+Breast cancer	rs140494697	0.2014
+Breast cancer	rs140614180	0.1449
+Breast cancer	rs140783387	0.0602
+Breast cancer	rs140842923	0.1059
+Breast cancer	rs140945602	0.0359
+Breast cancer	rs141061110	0.0408
+Breast cancer	rs141447235	0.0772
+Breast cancer	rs141448180	0.2059
+Breast cancer	rs1415174	0.0328
+Breast cancer	rs141634179	0.1019
+Breast cancer	rs141930488	0.111
+Breast cancer	rs142253798	0.1218
+Breast cancer	rs142427110	0.069
+Breast cancer	rs142471995	0.2003
+Breast cancer	rs142890050	0.0345
+Breast cancer	rs143072280	0.0342
+Breast cancer	rs144079028	0.0312
+Breast cancer	rs144366570	0.0423
+Breast cancer	rs144727871	0.0842
+Breast cancer	rs1450985	0.035
+Breast cancer	rs145106188	0.0343
+Breast cancer	rs145407011	0.0978
+Breast cancer	rs145455135	0.1571
+Breast cancer	rs145711907	0.0299
+Breast cancer	rs146071273	0.052
+Breast cancer	rs146331761	0.0875
+Breast cancer	rs146817970	0.0532
+Breast cancer	rs147032157	0.0483
+Breast cancer	rs148731571	0.0712
+Breast cancer	rs149253773	0.0944
+Breast cancer	rs149936356	0.176
+Breast cancer	rs150537328	0.0642
+Breast cancer	rs150658557	0.0605
+Breast cancer	rs151090251	0.0719
+Breast cancer	rs151170584	0.0989
+Breast cancer	rs151329939	0.1879
+Breast cancer	rs1514964	0.071
+Breast cancer	rs1519814	0.0365
+Breast cancer	rs1552172	0.0382
+Breast cancer	rs157554	0.0308
+Breast cancer	rs1611579	0.058
+Breast cancer	rs16342	0.0361
+Breast cancer	rs1685191	0.0586
+Breast cancer	rs16889471	0.0344
+Breast cancer	rs16907718	0.0404
+Breast cancer	rs16922097	0.1968
+Breast cancer	rs16952006	0.0524
+Breast cancer	rs1696803	0.116
+Breast cancer	rs1697139	0.028
+Breast cancer	rs17029056	0.0354
+Breast cancer	rs17080623	0.0344
+Breast cancer	rs172032	0.0531
+Breast cancer	rs1744947	0.0645
+Breast cancer	rs17543752	0.0574
+Breast cancer	rs17598658	0.0726
+Breast cancer	rs1783730	0.0339
+Breast cancer	rs17838698	0.0517
+Breast cancer	rs181270898	0.097
+Breast cancer	rs181337095	0.0521
+Breast cancer	rs182731523	0.0426
+Breast cancer	rs183421746	0.2452
+Breast cancer	rs184531260	0.21
+Breast cancer	rs184886	0.0333
+Breast cancer	rs185004002	0.1896
+Breast cancer	rs185028854	0.1578
+Breast cancer	rs1855581	0.0326
+Breast cancer	rs186036693	0.216
+Breast cancer	rs187201341	0.1861
+Breast cancer	rs187408367	0.2318
+Breast cancer	rs188460188	0.237
+Breast cancer	rs189157202	0.2152
+Breast cancer	rs1894633	0.0312
+Breast cancer	rs1902066	0.0281
+Breast cancer	rs190811224	0.037
+Breast cancer	rs190817902	0.1165
+Breast cancer	rs191057893	0.2573
+Breast cancer	rs191218575	0.1234
+Breast cancer	rs1924553	0.0386
+Breast cancer	rs1937680	0.0341
+Breast cancer	rs1962373	0.0335
+Breast cancer	rs1963045	0.0296
+Breast cancer	rs1966977	0.0422
+Breast cancer	rs1971136	0.0381
+Breast cancer	rs1973765	0.0817
+Breast cancer	rs1989796	0.0311
+Breast cancer	rs199498	0.0433
+Breast cancer	rs199501877	0.0315
+Breast cancer	rs199817973	0.0722
+Breast cancer	rs199867187	0.0381
+Breast cancer	rs200087884	0.0824
+Breast cancer	rs200255906	0.0911
+Breast cancer	rs200484318	0.0431
+Breast cancer	rs200725404	0.055
+Breast cancer	rs201073821	0.0738
+Breast cancer	rs201177249	0.0462
+Breast cancer	rs201462698	0.0571
+Breast cancer	rs201681753	0.1129
+Breast cancer	rs2045438	0.0323
+Breast cancer	rs2136690	0.0289
+Breast cancer	rs217727	0.0598
+Breast cancer	rs225132	0.0375
+Breast cancer	rs2253762	0.0419
+Breast cancer	rs2271032	0.0407
+Breast cancer	rs2295389	0.0345
+Breast cancer	rs2303282	0.0323
+Breast cancer	rs2304098	0.0434
+Breast cancer	rs2307561	0.0608
+Breast cancer	rs2384736	0.0319
+Breast cancer	rs2403907	0.0796
+Breast cancer	rs2405064	0.0484
+Breast cancer	rs2407156	0.0354
+Breast cancer	rs245279	0.0493
+Breast cancer	rs250677	0.0343
+Breast cancer	rs2506889	0.0615
+Breast cancer	rs2523992	0.0468
+Breast cancer	rs2589161	0.0348
+Breast cancer	rs26067	0.0369
+Breast cancer	rs2617583	0.0311
+Breast cancer	rs2714486	0.0498
+Breast cancer	rs2724379	0.0346
+Breast cancer	rs2725207	0.0455
+Breast cancer	rs2726492	0.0475
+Breast cancer	rs2732699	0.0595
+Breast cancer	rs2754412	0.0312
+Breast cancer	rs2771267	0.0393
+Breast cancer	rs2810650	0.0453
+Breast cancer	rs2822999	0.0589
+Breast cancer	rs2853669	0.0651
+Breast cancer	rs28599928	0.047
+Breast cancer	rs28648619	0.0551
+Breast cancer	rs289997	0.0448
+Breast cancer	rs2901157	0.0474
+Breast cancer	rs2926585	0.1156
+Breast cancer	rs2963155	0.0339
+Breast cancer	rs3029748	0.0298
+Breast cancer	rs3036802	0.0426
+Breast cancer	rs3057314	0.0695
+Breast cancer	rs3094054	0.056
+Breast cancer	rs3094146	0.0543
+Breast cancer	rs310291	0.0341
+Breast cancer	rs3116813	0.0553
+Breast cancer	rs3124765	0.0437
+Breast cancer	rs3129178	0.0669
+Breast cancer	rs3129984	0.0465
+Breast cancer	rs3130834	0.0672
+Breast cancer	rs3132610	0.0499
+Breast cancer	rs3132615	0.0507
+Breast cancer	rs332529	0.0606
+Breast cancer	rs33960734	0.0375
+Breast cancer	rs34044188	0.0953
+Breast cancer	rs34119086	0.0679
+Breast cancer	rs34146356	0.0861
+Breast cancer	rs34196306	0.0747
+Breast cancer	rs34331122	0.0288
+Breast cancer	rs34507830	0.2629
+Breast cancer	rs34546498	0.0747
+Breast cancer	rs34662244	0.0691
+Breast cancer	rs348196	0.0407
+Breast cancer	rs34853779	0.0288
+Breast cancer	rs35029702	0.0609
+Breast cancer	rs35072154	0.0301
+Breast cancer	rs35100619	0.0507
+Breast cancer	rs35273427	0.0707
+Breast cancer	rs35306388	0.1041
+Breast cancer	rs35409891	0.0457
+Breast cancer	rs35417517	0.0416
+Breast cancer	rs35419901	0.1123
+Breast cancer	rs35522438	0.0389
+Breast cancer	rs35632171	0.0915
+Breast cancer	rs35748790	0.0317
+Breast cancer	rs35997229	0.0829
+Breast cancer	rs36059695	0.1031
+Breast cancer	rs36715	0.0339
+Breast cancer	rs368032757	0.1759
+Breast cancer	rs368121891	0.0405
+Breast cancer	rs368131309	0.0371
+Breast cancer	rs369304377	0.0885
+Breast cancer	rs369328859	0.0369
+Breast cancer	rs369574511	0.0364
+Breast cancer	rs369832192	0.0302
+Breast cancer	rs370356098	0.0837
+Breast cancer	rs372562666	0.1005
+Breast cancer	rs375066	0.0474
+Breast cancer	rs375506010	0.0395
+Breast cancer	rs3769821	0.0565
+Breast cancer	rs377527229	0.0341
+Breast cancer	rs377629160	0.0431
+Breast cancer	rs3815308	0.0288
+Breast cancer	rs3821902	0.0623
+Breast cancer	rs3829964	0.0331
+Breast cancer	rs3853291	0.0318
+Breast cancer	rs411624	0.0767
+Breast cancer	rs418053	0.0465
+Breast cancer	rs4254863	0.0472
+Breast cancer	rs4286946	0.0799
+Breast cancer	rs4345958	0.0322
+Breast cancer	rs45509595	0.0684
+Breast cancer	rs45589338	0.1112
+Breast cancer	rs4594370	0.1022
+Breast cancer	rs4674124	0.056
+Breast cancer	rs4702131	0.0424
+Breast cancer	rs4742903	0.0325
+Breast cancer	rs4757319	0.0298
+Breast cancer	rs4763	0.0464
+Breast cancer	rs4774565	0.0329
+Breast cancer	rs4814894	0.0323
+Breast cancer	rs4820318	0.0475
+Breast cancer	rs4820477	0.0307
+Breast cancer	rs4820803	0.0394
+Breast cancer	rs4848599	0.0933
+Breast cancer	rs4865169	0.0278
+Breast cancer	rs4940575	0.04
+Breast cancer	rs505372	0.0322
+Breast cancer	rs55821517	0.0639
+Breast cancer	rs55834529	0.071
+Breast cancer	rs55908905	0.032
+Breast cancer	rs55910451	0.0377
+Breast cancer	rs55986698	0.0421
+Breast cancer	rs56077980	0.0346
+Breast cancer	rs56114371	0.071
+Breast cancer	rs56138756	0.0508
+Breast cancer	rs56160832	0.0463
+Breast cancer	rs56168262	0.0372
+Breast cancer	rs56169712	0.0319
+Breast cancer	rs56196003	0.0363
+Breast cancer	rs56278937	0.0317
+Breast cancer	rs56333866	0.0928
+Breast cancer	rs56387622	0.0942
+Breast cancer	rs56949123	0.0692
+Breast cancer	rs57237364	0.0331
+Breast cancer	rs57275132	0.0311
+Breast cancer	rs57324102	0.0885
+Breast cancer	rs57380813	0.0313
+Breast cancer	rs575908	0.032
+Breast cancer	rs5776993	0.0563
+Breast cancer	rs5780403	0.0378
+Breast cancer	rs5789877	0.0324
+Breast cancer	rs57968892	0.0317
+Breast cancer	rs58327846	0.0311
+Breast cancer	rs5837757	0.0438
+Breast cancer	rs58685532	0.041
+Breast cancer	rs58742730	0.0467
+Breast cancer	rs59867004	0.0446
+Breast cancer	rs6001982	0.1207
+Breast cancer	rs60037937	0.0853
+Breast cancer	rs6020772	0.0348
+Breast cancer	rs60226654	0.0299
+Breast cancer	rs60504827	0.053
+Breast cancer	rs6062356	0.0405
+Breast cancer	rs60936670	0.1056
+Breast cancer	rs60954078	0.1817
+Breast cancer	rs612683	0.0327
+Breast cancer	rs61495451	0.0398
+Breast cancer	rs61729152	0.1081
+Breast cancer	rs617791	0.0281
+Breast cancer	rs61865900	0.078
+Breast cancer	rs62048402	0.0624
+Breast cancer	rs62061734	0.0526
+Breast cancer	rs62079673	0.0329
+Breast cancer	rs62084913	0.0307
+Breast cancer	rs62193398	0.0332
+Breast cancer	rs62235635	0.4659
+Breast cancer	rs62235681	0.4558
+Breast cancer	rs62235753	0.2221
+Breast cancer	rs62237039	0.101
+Breast cancer	rs62237573	0.4256
+Breast cancer	rs62237615	0.4404
+Breast cancer	rs62315512	0.04
+Breast cancer	rs62331150	0.0494
+Breast cancer	rs62355901	0.1734
+Breast cancer	rs62485509	0.0545
+Breast cancer	rs630965	0.0992
+Breast cancer	rs6432241	0.0313
+Breast cancer	rs643506	0.0344
+Breast cancer	rs6436017	0.0399
+Breast cancer	rs6449898	0.033
+Breast cancer	rs6473252	0.0309
+Breast cancer	rs6558174	0.0362
+Breast cancer	rs66686620	0.0469
+Breast cancer	rs666930	0.0347
+Breast cancer	rs66783663	0.0408
+Breast cancer	rs66823261	0.041
+Breast cancer	rs66849333	0.0693
+Breast cancer	rs66964413	0.1034
+Breast cancer	rs66987842	0.1233
+Breast cancer	rs67079557	0.0362
+Breast cancer	rs6710503	0.0323
+Breast cancer	rs67500807	0.0396
+Breast cancer	rs6756513	0.0366
+Breast cancer	rs6776003	0.0394
+Breast cancer	rs6787391	0.0567
+Breast cancer	rs6789440	0.0403
+Breast cancer	rs68006638	0.0646
+Breast cancer	rs68056147	0.0501
+Breast cancer	rs68140948	0.0481
+Breast cancer	rs6818581	0.1608
+Breast cancer	rs6860806	0.0335
+Breast cancer	rs6878727	0.0335
+Breast cancer	rs6890270	0.1349
+Breast cancer	rs6890610	0.0327
+Breast cancer	rs6904031	0.1314
+Breast cancer	rs6912005	0.0483
+Breast cancer	rs6928012	0.0303
+Breast cancer	rs6934651	0.0522
+Breast cancer	rs6938	0.0364
+Breast cancer	rs6940159	0.033
+Breast cancer	rs6946892	0.0413
+Breast cancer	rs7017073	0.0572
+Breast cancer	rs7017697	0.0319
+Breast cancer	rs707475	0.035
+Breast cancer	rs7098100	0.0572
+Breast cancer	rs7102494	0.0508
+Breast cancer	rs71063528	0.0381
+Breast cancer	rs7121616	0.0314
+Breast cancer	rs71281886	0.1168
+Breast cancer	rs71386921	0.0366
+Breast cancer	rs7149262	0.0724
+Breast cancer	rs71599425	0.0797
+Breast cancer	rs71695136	0.0427
+Breast cancer	rs718857	0.0311
+Breast cancer	rs72001329	0.0312
+Breast cancer	rs72127681	0.0454
+Breast cancer	rs7223535	0.0439
+Breast cancer	rs72314471	0.0385
+Breast cancer	rs72396995	0.0383
+Breast cancer	rs7240205	0.0365
+Breast cancer	rs7249698	0.0327
+Breast cancer	rs7258465	0.0725
+Breast cancer	rs72658071	0.1182
+Breast cancer	rs72751936	0.0667
+Breast cancer	rs72755643	0.0652
+Breast cancer	rs72765759	0.0693
+Breast cancer	rs72774916	0.0648
+Breast cancer	rs7278690	0.0583
+Breast cancer	rs72806318	0.2218
+Breast cancer	rs72807246	0.0429
+Breast cancer	rs72810771	0.2026
+Breast cancer	rs72814839	0.1943
+Breast cancer	rs72820985	0.0423
+Breast cancer	rs72856431	0.1135
+Breast cancer	rs72932540	0.0553
+Breast cancer	rs72942597	0.2224
+Breast cancer	rs72953532	0.1819
+Breast cancer	rs73034872	0.1191
+Breast cancer	rs73077323	0.0563
+Breast cancer	rs73098691	0.0689
+Breast cancer	rs73176670	0.0751
+Breast cancer	rs73348588	0.1212
+Breast cancer	rs73487618	0.0989
+Breast cancer	rs736801	0.0349
+Breast cancer	rs7378815	0.0494
+Breast cancer	rs73822569	0.2565
+Breast cancer	rs7430456	0.0292
+Breast cancer	rs74392007	0.0514
+Breast cancer	rs74433033	0.09
+Breast cancer	rs7458786	0.0379
+Breast cancer	rs748476	0.0399
+Breast cancer	rs74910854	0.0607
+Breast cancer	rs7500067	0.0785
+Breast cancer	rs75116627	0.1517
+Breast cancer	rs7513707	0.0554
+Breast cancer	rs7524950	0.0419
+Breast cancer	rs75282042	0.0971
+Breast cancer	rs75282989	0.1716
+Breast cancer	rs7570	0.0319
+Breast cancer	rs75887402	0.0919
+Breast cancer	rs76007978	0.1781
+Breast cancer	rs76092474	0.046
+Breast cancer	rs7619833	0.0874
+Breast cancer	rs76340606	0.1643
+Breast cancer	rs76375990	0.098
+Breast cancer	rs7637701	0.03
+Breast cancer	rs7697216	0.1039
+Breast cancer	rs7709328	0.0327
+Breast cancer	rs77198337	0.1641
+Breast cancer	rs7721647	0.032
+Breast cancer	rs77457752	0.0462
+Breast cancer	rs77485526	0.0895
+Breast cancer	rs77554484	0.0741
+Breast cancer	rs77674461	0.0808
+Breast cancer	rs77683187	0.0613
+Breast cancer	rs77688320	0.0489
+Breast cancer	rs7768862	0.028
+Breast cancer	rs77702473	0.0481
+Breast cancer	rs77928427	0.04
+Breast cancer	rs7810893	0.0299
+Breast cancer	rs78295797	0.0953
+Breast cancer	rs7833090	0.0339
+Breast cancer	rs7834448	0.0309
+Breast cancer	rs7844233	0.0813
+Breast cancer	rs7847854	0.055
+Breast cancer	rs78579487	0.0324
+Breast cancer	rs7862618	0.1381
+Breast cancer	rs78796841	0.1097
+Breast cancer	rs7899628	0.0396
+Breast cancer	rs7906315	0.0357
+Breast cancer	rs79108280	0.0356
+Breast cancer	rs7918232	0.036
+Breast cancer	rs7937840	0.035
+Breast cancer	rs79518236	0.0396
+Breast cancer	rs800132	0.0689
+Breast cancer	rs80199833	0.0356
+Breast cancer	rs8027365	0.038
+Breast cancer	rs803903	0.0456
+Breast cancer	rs8050871	0.0315
+Breast cancer	rs8074440	0.0353
+Breast cancer	rs8081187	0.0607
+Breast cancer	rs8082452	0.0418
+Breast cancer	rs8137282	0.0882
+Breast cancer	rs847577	0.0284
+Breast cancer	rs848087	0.0427
+Breast cancer	rs898097	0.0311
+Breast cancer	rs924712	0.0291
+Breast cancer	rs9257809	0.0627
+Breast cancer	rs9262142	0.0489
+Breast cancer	rs9292195	0.0434
+Breast cancer	rs930395	0.1187
+Breast cancer	rs9323635	0.1122
+Breast cancer	rs9350395	0.0323
+Breast cancer	rs9361840	0.0541
+Breast cancer	rs9379084	0.0486
+Breast cancer	rs9421352	0.0389
+Breast cancer	rs9449003	0.0295
+Breast cancer	rs9460578	0.0337
+Breast cancer	rs9562987	0.0305
+Breast cancer	rs9578106	0.0461
+Breast cancer	rs9619765	0.0914
+Breast cancer	rs9675999	0.0319
+Breast cancer	rs970821	0.0445
+Breast cancer	rs9712235	0.0357
+Breast cancer	rs9808759	0.0597
+Breast cancer	rs9833726	0.0429
+Breast cancer	rs9837602	0.0448
+Breast cancer	rs9867461	0.0964
+Breast cancer	rs9882792	0.0377
+Breast cancer	rs9884765	0.0353
+Breast cancer	rs9952980	0.0478
+Breast cancer	rs9954058	0.0891
+Breast cancer	rs9959491	0.0345
+Lung cancer	rs8034191	1.29
+Colorectal cancer	rs7014346	1.13
+Colorectal cancer	rs3802842	1.09
+Colorectal cancer	rs4939827	1.12
+Colorectal cancer	rs10795668	1.12
+Colorectal cancer	rs16892766	1.2048193
+Prostate cancer	rs10993994	0.4
+Prostate cancer	rs2735839	1.17
+Prostate cancer	rs9364554	1.14
+Prostate cancer	rs6465657	1.12
+Prostate cancer	rs10896449	1.1
+Prostate cancer	rs10486567	1.12
+Colorectal cancer	rs6983267	1.1235955
+Colorectal cancer	rs10505477	1.15
+Prostate cancer	rs4430796	1.18
+Prostate cancer	rs1859962	1.13
+Breast cancer	rs2981582	1.18
+Breast cancer	rs3803662	1.14
+Breast cancer	rs889312	1.12
+Breast cancer	rs13281615	1.08
+Breast cancer	rs3817198	1.05
+Breast cancer	rs1219648	1.17
+Breast cancer	rs13387042	1.1363636
+Prostate cancer	rs16901979	1.3888888
+Prostate cancer	rs6983267	0.29
+Prostate cancer	rs1447295	0.51
+Colorectal cancer	rs4779584	1.12
+Prostate cancer	rs2660753	1.18
+Prostate cancer	rs1016343	1.25
+Prostate cancer	rs4242384	1.56
+Prostate cancer	rs7501939	1.17
+Prostate cancer	rs4242382	1.45
+Urinary bladder cancer	rs9642880	1.21
+Urinary bladder cancer	rs710521	1.19
+Lung cancer	rs3117582	1.24
+Colorectal cancer	rs10411210	1.12
+Colorectal cancer	rs961253	0.0168
+Colorectal cancer	rs4444235	1.0869565
+Thyroid cancer	rs965513	1.65
+Breast cancer	rs2046210	1.08
+Breast cancer	rs2981579	1.17
+Breast cancer	rs11249433	1.09
+Breast cancer	rs999737	1.06
+Pancreatic cancer	rs505922	1.2
+Ovarian cancer	rs3814113	1.21
+Bladder cancer	rs2294008	1.13
+Prostate cancer	rs445114	1.14
+Prostate cancer	rs10187424	1.09
+Prostate cancer	rs10875943	1.07
+Breast cancer	rs10069690	1.06
+Prostate cancer	rs13385191	1.15
+Prostate cancer	rs12653946	1.26
+Prostate cancer	rs339331	1.12
+Prostate cancer	rs9600079	1.18
+Prostate cancer	rs1456315	12.309021725483872
+Prostate cancer	rs1512268	1.17
+Breast cancer	rs8170	1.04
+Ovarian cancer	rs8170	1.11
+Ovarian cancer	rs2072590	1.11
+Ovarian cancer	rs10088218	1.18
+Ovarian cancer	rs9303542	1.11
+Bladder cancer	rs1014971	1.13
+Bladder cancer	rs8102137	1.13
+Bladder cancer	rs11892031	1.17
+Bladder cancer	rs1495741	1.14
+Bladder cancer	rs9642880	1.21
+Bladder cancer	rs401681	1.11
+Bladder cancer	rs798766	1.2
+Bladder cancer	rs710521	1.14
+Colorectal cancer	rs6687758	1.09
+Breast cancer	rs4973768	1.1
+Breast cancer	rs1562430	1.16
+Thyroid cancer	rs116909374	1.81
+Breast cancer (survival)	rs3784099	1.43
+Breast cancer	rs9485372	1.0416667
+Colorectal cancer	rs3824999	1.0752687
+Breast cancer	rs865686	1.1111112
+Oral cavity and pharyngeal cancer	rs1229984	1.56
+Lung cancer	rs4488809	1.19
+Lung cancer	rs2736100	1.27
+Prostate cancer	rs902774	1.16
+Prostate cancer	rs651164	1.15
+Prostate cancer	rs13252298	1.11
+Prostate cancer	rs7130881	1.31
+Prostate cancer	rs7679673	1.1
+Prostate cancer	rs12155172	1.05
+Prostate cancer	rs5759167	1.13
+Pancreatic cancer	rs9543325	1.23
+Pancreatic cancer	rs3790844	1.2048193
+Pancreatic cancer	rs401681	1.19
+Breast cancer	rs3757318	1.15
+Breast cancer	rs1011970	1.06
+Breast cancer	rs10995190	1.010101
+Breast cancer	rs704010	1.07
+Breast cancer	rs614367	1.15
+Breast cancer	rs4784227	1.07
+Response to platinum-based chemotherapy in non-small-cell lung cancer	rs969088	1.4
+Ovarian cancer	rs7651446	1.44
+Ovarian cancer	rs11782652	1.19
+Ovarian cancer	rs1243180	1.1
+Cervical cancer	rs9272143	1.3513513
+Breast cancer	rs616488	1.06
+Breast cancer	rs11552449	1.04
+Breast cancer	rs4849887	1.098901
+Breast cancer	rs2016394	1.05
+Breast cancer	rs16857609	1.04
+Breast cancer	rs6762644	1.05
+Breast cancer	rs12493607	1.05
+Breast cancer	rs9790517	1.04
+Breast cancer	rs6828523	1.098901
+Breast cancer	rs10472076	1.03
+Breast cancer	rs1432679	1.04
+Breast cancer	rs11242675	1.0416667
+Breast cancer	rs204247	1.04
+Breast cancer	rs720475	1.0416667
+Breast cancer	rs9693444	1.06
+Breast cancer	rs6472903	1.0638298
+Breast cancer	rs11780156	1.05
+Breast cancer	rs10759243	1.05
+Breast cancer	rs7072776	1.05
+Breast cancer	rs7904519	1.03
+Breast cancer	rs11199914	1.0416667
+Breast cancer	rs3903072	1.0309278
+Breast cancer	rs11820646	1.0416667
+Breast cancer	rs12422552	1.04
+Breast cancer	rs17356907	1.0526316
+Breast cancer	rs11571833	1.26
+Breast cancer	rs2236007	1.0752687
+Breast cancer	rs2588809	1.06
+Breast cancer	rs941764	1.03
+Breast cancer	rs17817449	1.0526316
+Breast cancer	rs13329835	1.07
+Breast cancer	rs527616	1.0309278
+Breast cancer	rs4808801	1.0752687
+Breast cancer	rs3760982	1.05
+Breast cancer	rs132390	1.04
+Breast cancer	rs6001930	1.07
+Breast cancer	rs10941679	1.12
+Breast cancer	rs17530068	1.05
+Breast cancer	rs10771399	1.16
+Breast cancer	rs1292011	1.0869565
+Breast cancer	rs6504950	1.05
+Breast cancer	rs2823093	1.0638298
+Breast cancer	rs4245739	1.09
+Breast cancer	rs12710696	1.01
+Breast cancer	rs11075995	1.01
+Prostate cancer	rs11672691	1.08
+Prostate cancer	rs11704416	1.05
+"Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)"	rs2494938	1.15
+"Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)"	rs2285947	1.14
+Colorectal cancer	rs3217901	1.0869565
+Colorectal cancer	rs10774214	1.09
+Colorectal cancer	rs647161	1.11
+Colorectal cancer	rs2423279	1.1
+Endometrial cancer	rs4407	5.374922158904067
+Breast cancer	rs2981578	1.225
+Ovarian cancer in BRCA1 mutation carriers	rs17631303	1.27
+Ovarian cancer in BRCA1 mutation carriers	rs183211	1.25
+Ovarian cancer in BRCA1 mutation carriers	rs4691139	1.1581223
+Breast cancer	rs1550623	1.0526316
+Breast cancer	rs1353747	1.0416667
+Breast cancer	rs2943559	1.1
+Breast cancer	rs11814448	1.12
+Breast cancer	rs1436904	1.04
+Endometrial cancer	rs12778749	5.374922158904067
+Colorectal cancer	rs7229639	1.2
+Colorectal cancer	rs6469656	1.09
+Colorectal cancer	rs4948317	1.0869565
+Colorectal cancer	rs704017	1.1
+Colorectal cancer	rs12412391	1.0752687
+Colorectal cancer	rs11196172	1.14
+Colorectal cancer	rs174537	1.16
+Colorectal cancer	rs10849432	1.14
+Colorectal cancer	rs12603526	1.1
+Colorectal cancer	rs1800469	1.09
+Colorectal cancer	rs11255841	1.18
+Colorectal cancer	rs57046232	1.107
+Colorectal cancer	rs2427308	1.19
+Response to radiotherapy in cancer (late toxicity)	rs12243039	3.28
+Prostate cancer	rs6983561	1.45
+Prostate cancer	rs17023900	1.26
+Lung cancer	rs11571833	1.6034979
+Lung cancer	rs17879961	1.67
+Breast cancer	rs10474352	1.0638298
+Breast cancer	rs2290203	1.0638298
+Pancreatic cancer	rs6971499	1.2345679
+Pancreatic cancer	rs9581943	1.15
+Prostate cancer	rs17599629	1.08
+Prostate cancer	rs9287719	1.06
+Prostate cancer	rs10009409	1.08
+Prostate cancer	rs4713266	1.06
+Prostate cancer	rs115457135	1.07
+Prostate cancer	rs115306967	1.06
+Prostate cancer	rs56232506	1.06
+Prostate cancer	rs17694493	1.08
+Prostate cancer	rs76934034	1.13
+Prostate cancer	rs11214775	1.07
+Prostate cancer	rs80130819	1.13
+Prostate cancer	rs8014671	1.06
+Prostate cancer	rs2807031	1.07
+Prostate cancer	rs6625711	1.04
+Prostate cancer	rs4844289	1.04
+Prostate cancer	rs12480328	1.13
+Prostate cancer	rs1041449	1.06
+Prostate cancer	rs2238776	1.08
+Survival in rectal cancer	rs6854845	3.31
+Survival in colon cancer	rs17280262	2.66
+Survival in microsatellite instability low/stable colorectal cancer	rs6720296	1.74
+Colorectal cancer	rs11190164	1.09
+Colorectal cancer	rs35360328	1.14
+Colorectal cancer	rs812481	1.09
+Colorectal cancer	rs3184504	1.09
+Colorectal cancer	rs73208120	1.16
+Colorectal cancer	rs4946260	1.07
+Anthracycline-induced cardiotoxicity in childhood cancer	rs2229774	4.7
+Prostate cancer	rs11986220	1.54
+Prostate cancer	rs10086908	1.17
+Prostate cancer	rs16902104	1.18
+Prostate cancer	rs11649743	1.14
+Epithelial ovarian cancer	rs10069690	1.0802581
+Epithelial ovarian cancer	rs3820282	1.11
+Epithelial ovarian cancer	rs12039431	1.07
+Epithelial ovarian cancer	rs17329882	1.09
+Epithelial ovarian cancer	rs115344852	1.0638298
+Epithelial ovarian cancer	rs8044477	1.1
+Survival in colorectal cancer (distant metastatic)	rs209489	1.77
+Breast cancer	rs2736108	1.0638298
+Breast cancer	rs12662670	1.17
+Breast cancer	rs7297051	1.1235955
+Breast cancer	rs56069439	0.0387
+Breast cancer	rs6562760	1.0526316
+Breast cancer	rs12870942	0.0391
+Breast cancer	rs13365225	1.0416667
+Breast cancer	rs745570	1.03
+Colorectal cancer (alcohol consumption interaction)	rs9409565	1.23
+Colorectal cancer	rs2238126	1.17
+Lung cancer	rs55781567	1.2974213
+Colon cancer	rs56848936	1.64
+Breast cancer	rs12405132	1.0309278
+Breast cancer	rs12048493	1.04
+Breast cancer	rs72755295	1.15
+Breast cancer	rs6796502	1.0869565
+Breast cancer	rs13162653	1.010101
+Breast cancer	rs2012709	1.02
+Breast cancer	rs7707921	1.0416667
+Breast cancer	rs9257408	1.02
+Breast cancer	rs4593472	1.0309278
+Breast cancer	rs13267382	1.03
+Breast cancer	rs11627032	1.0416667
+Breast cancer	rs6507583	1.0869565
+Breast cancer	rs1053338	1.05
+Breast cancer	rs17529111	1.02
+Breast cancer	rs6964587	1.03
+Breast cancer	rs78540526	0.2758
+Breast cancer	rs554219	1.21
+Breast cancer	rs75915166	1.28
